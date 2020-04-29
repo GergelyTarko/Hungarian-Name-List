@@ -1,0 +1,10762 @@
+{
+   "Fejér": [
+      {
+         "city": "Aba"
+      },
+      {
+         "city": "Aba"
+      },
+      {
+         "city": "Adony"
+      },
+      {
+         "city": "Alap"
+      },
+      {
+         "city": "Alcsútdoboz"
+      },
+      {
+         "city": "Alsószentiván"
+      },
+      {
+         "city": "Bakonycsernye"
+      },
+      {
+         "city": "Bakonykúti"
+      },
+      {
+         "city": "Balinka"
+      },
+      {
+         "city": "Balinka"
+      },
+      {
+         "city": "Baracs"
+      },
+      {
+         "city": "Baracs"
+      },
+      {
+         "city": "Baracska"
+      },
+      {
+         "city": "Beloiannisz"
+      },
+      {
+         "city": "Besnyő"
+      },
+      {
+         "city": "Bicske"
+      },
+      {
+         "city": "Bocskaikert"
+      },
+      {
+         "city": "Boda"
+      },
+      {
+         "city": "Cece"
+      },
+      {
+         "city": "Csabdi"
+      },
+      {
+         "city": "Csákberény"
+      },
+      {
+         "city": "Csákvár"
+      },
+      {
+         "city": "Csöde"
+      },
+      {
+         "city": "Csömödér"
+      },
+      {
+         "city": "Csót"
+      },
+      {
+         "city": "Dég"
+      },
+      {
+         "city": "Dunaújváros"
+      },
+      {
+         "city": "Dunaújváros"
+      },
+      {
+         "city": "Előszállás"
+      },
+      {
+         "city": "Előszállás"
+      },
+      {
+         "city": "Enying"
+      },
+      {
+         "city": "Enying"
+      },
+      {
+         "city": "Ercsi"
+      },
+      {
+         "city": "Ercsi"
+      },
+      {
+         "city": "Etyek"
+      },
+      {
+         "city": "Fehérvárcsurgó"
+      },
+      {
+         "city": "Felcsút"
+      },
+      {
+         "city": "Fulókércs"
+      },
+      {
+         "city": "Gánt"
+      },
+      {
+         "city": "Gárdony"
+      },
+      {
+         "city": "Gárdony"
+      },
+      {
+         "city": "Gárdony"
+      },
+      {
+         "city": "Gyulakeszi"
+      },
+      {
+         "city": "Hantos"
+      },
+      {
+         "city": "Igar"
+      },
+      {
+         "city": "Igar"
+      },
+      {
+         "city": "Iszkaszentgyörgy"
+      },
+      {
+         "city": "Isztimér"
+      },
+      {
+         "city": "Iváncsa"
+      },
+      {
+         "city": "Jenő"
+      },
+      {
+         "city": "Kajászó"
+      },
+      {
+         "city": "Káloz"
+      },
+      {
+         "city": "Kápolnásnyék"
+      },
+      {
+         "city": "Kincsesbánya"
+      },
+      {
+         "city": "Kisapostag"
+      },
+      {
+         "city": "Kisláng"
+      },
+      {
+         "city": "Kötegyán"
+      },
+      {
+         "city": "Kübekháza"
+      },
+      {
+         "city": "Lajoskomárom"
+      },
+      {
+         "city": "Lepsény"
+      },
+      {
+         "city": "Lőrinci"
+      },
+      {
+         "city": "Magyaralmás"
+      },
+      {
+         "city": "Mány"
+      },
+      {
+         "city": "Martonvásár"
+      },
+      {
+         "city": "Matty"
+      },
+      {
+         "city": "Mezőfalva"
+      },
+      {
+         "city": "Mezőkomárom"
+      },
+      {
+         "city": "Mezőszentgyörgy"
+      },
+      {
+         "city": "Mezőszilas"
+      },
+      {
+         "city": "Mogyoróska"
+      },
+      {
+         "city": "Monyoród"
+      },
+      {
+         "city": "Nadap"
+      },
+      {
+         "city": "Nádasdladány"
+      },
+      {
+         "city": "Nagykarácsony"
+      },
+      {
+         "city": "Nagylók"
+      },
+      {
+         "city": "Nagyveleg"
+      },
+      {
+         "city": "Nagyvenyim"
+      },
+      {
+         "city": "Óbarok"
+      },
+      {
+         "city": "Pákozd"
+      },
+      {
+         "city": "Pátka"
+      },
+      {
+         "city": "Pázmánd"
+      },
+      {
+         "city": "Perkáta"
+      },
+      {
+         "city": "Polgárdi"
+      },
+      {
+         "city": "Polgárdi"
+      },
+      {
+         "city": "Polgárdi"
+      },
+      {
+         "city": "Pusztamérges"
+      },
+      {
+         "city": "Pusztaszabolcs"
+      },
+      {
+         "city": "Rácalmás"
+      },
+      {
+         "city": "Ráckeresztúr"
+      },
+      {
+         "city": "Sárbogárd"
+      },
+      {
+         "city": "Sárbogárd"
+      },
+      {
+         "city": "Sárbogárd"
+      },
+      {
+         "city": "Sárbogárd"
+      },
+      {
+         "city": "Sáregres"
+      },
+      {
+         "city": "Sárkeresztes"
+      },
+      {
+         "city": "Sárkeresztúr"
+      },
+      {
+         "city": "Sárkeszi"
+      },
+      {
+         "city": "Sárosd"
+      },
+      {
+         "city": "Sárszentágota"
+      },
+      {
+         "city": "Sárszentmihály"
+      },
+      {
+         "city": "Sárszentmihály"
+      },
+      {
+         "city": "Seregélyes"
+      },
+      {
+         "city": "Sonkád"
+      },
+      {
+         "city": "Sótony"
+      },
+      {
+         "city": "Sukoró"
+      },
+      {
+         "city": "Szabadbattyán"
+      },
+      {
+         "city": "Szabadegyháza"
+      },
+      {
+         "city": "Szabadhidvég"
+      },
+      {
+         "city": "Szabadhidvég"
+      },
+      {
+         "city": "Szár"
+      },
+      {
+         "city": "Székesfehérvár"
+      },
+      {
+         "city": "Székesfehérvár"
+      },
+      {
+         "city": "Tabajd"
+      },
+      {
+         "city": "Tác"
+      },
+      {
+         "city": "Tomor"
+      },
+      {
+         "city": "Újbarok"
+      },
+      {
+         "city": "Ura"
+      },
+      {
+         "city": "Vajta"
+      },
+      {
+         "city": "Vál"
+      },
+      {
+         "city": "Velence"
+      },
+      {
+         "city": "Vereb"
+      },
+      {
+         "city": "Vértesacsa"
+      },
+      {
+         "city": "Vértesboglár"
+      },
+      {
+         "city": "Zámoly"
+      },
+      {
+         "city": "Zichyújfalu"
+      }
+   ],
+   "Jász-Nagykun-Szolnok": [
+      {
+         "city": "Abádszalók"
+      },
+      {
+         "city": "Alattyán"
+      },
+      {
+         "city": "Berekfürdő"
+      },
+      {
+         "city": "Besenyszög"
+      },
+      {
+         "city": "Cibakháza"
+      },
+      {
+         "city": "Csataszög"
+      },
+      {
+         "city": "Csépa"
+      },
+      {
+         "city": "Cserkeszőlő"
+      },
+      {
+         "city": "Fegyvernek"
+      },
+      {
+         "city": "Fegyvernek"
+      },
+      {
+         "city": "Hunyadfalva"
+      },
+      {
+         "city": "Jánoshida"
+      },
+      {
+         "city": "Jászágó"
+      },
+      {
+         "city": "Jászalsószentgyörgy"
+      },
+      {
+         "city": "Jászapáti"
+      },
+      {
+         "city": "Jászárokszállás"
+      },
+      {
+         "city": "Jászberény"
+      },
+      {
+         "city": "Jászberény"
+      },
+      {
+         "city": "Jászboldogháza"
+      },
+      {
+         "city": "Jászdózsa"
+      },
+      {
+         "city": "Jászfelsőszentgyörgy"
+      },
+      {
+         "city": "Jászfényszaru"
+      },
+      {
+         "city": "Jászivány"
+      },
+      {
+         "city": "Jászjákóhalma"
+      },
+      {
+         "city": "Jászkisér"
+      },
+      {
+         "city": "Jászladány"
+      },
+      {
+         "city": "Jászszentandrás"
+      },
+      {
+         "city": "Jásztelek"
+      },
+      {
+         "city": "Karcag"
+      },
+      {
+         "city": "Kenderes"
+      },
+      {
+         "city": "Kenderes"
+      },
+      {
+         "city": "Kengyel"
+      },
+      {
+         "city": "Kétpó"
+      },
+      {
+         "city": "Kisújszállás"
+      },
+      {
+         "city": "Kővágótőttős"
+      },
+      {
+         "city": "Kunágota"
+      },
+      {
+         "city": "Kunbaracs"
+      },
+      {
+         "city": "Kuncsorba"
+      },
+      {
+         "city": "Kunhegyes"
+      },
+      {
+         "city": "Kunmadaras"
+      },
+      {
+         "city": "Martfű"
+      },
+      {
+         "city": "Mesterszállás"
+      },
+      {
+         "city": "Mezőhék"
+      },
+      {
+         "city": "Mezőtúr"
+      },
+      {
+         "city": "Nagyiván"
+      },
+      {
+         "city": "Nagykozár"
+      },
+      {
+         "city": "Nagyrév"
+      },
+      {
+         "city": "Ősi"
+      },
+      {
+         "city": "Ózd"
+      },
+      {
+         "city": "Pusztahencse"
+      },
+      {
+         "city": "Rákóczifalva"
+      },
+      {
+         "city": "Rákócziújfalu"
+      },
+      {
+         "city": "Szajol"
+      },
+      {
+         "city": "Szászberek"
+      },
+      {
+         "city": "Szelevény"
+      },
+      {
+         "city": "Sződ"
+      },
+      {
+         "city": "Sződliget"
+      },
+      {
+         "city": "Tiszabő"
+      },
+      {
+         "city": "Tiszabura"
+      },
+      {
+         "city": "Tiszaderzs"
+      },
+      {
+         "city": "Tiszaföldvár"
+      },
+      {
+         "city": "Tiszaföldvár"
+      },
+      {
+         "city": "Tiszafüred"
+      },
+      {
+         "city": "Tiszafüred"
+      },
+      {
+         "city": "Tiszafüred"
+      },
+      {
+         "city": "Tiszafüred"
+      },
+      {
+         "city": "Tiszagyenda"
+      },
+      {
+         "city": "Tiszaigar"
+      },
+      {
+         "city": "Tiszainoka"
+      },
+      {
+         "city": "Tiszajenő"
+      },
+      {
+         "city": "Tiszakürt"
+      },
+      {
+         "city": "Tiszakürt"
+      },
+      {
+         "city": "Tiszaörs"
+      },
+      {
+         "city": "Tiszapüspöki"
+      },
+      {
+         "city": "Tiszaroff"
+      },
+      {
+         "city": "Tiszasas"
+      },
+      {
+         "city": "Tiszasüly"
+      },
+      {
+         "city": "Tiszaszentimre"
+      },
+      {
+         "city": "Tiszaszentimre"
+      },
+      {
+         "city": "Tiszatenyő"
+      },
+      {
+         "city": "Tiszavárkony"
+      },
+      {
+         "city": "Tiszavárkony"
+      },
+      {
+         "city": "Tolna"
+      },
+      {
+         "city": "Tornyiszentmiklós"
+      },
+      {
+         "city": "Tótszerdahely"
+      },
+      {
+         "city": "Töttös"
+      },
+      {
+         "city": "Türje"
+      },
+      {
+         "city": "Újszász"
+      },
+      {
+         "city": "Vezseny"
+      },
+      {
+         "city": "Zagyvarékas"
+      }
+   ],
+   "Baranya": [
+      {
+         "city": "Abaliget"
+      },
+      {
+         "city": "Adorjás"
+      },
+      {
+         "city": "Ág"
+      },
+      {
+         "city": "Almamellék"
+      },
+      {
+         "city": "Almáskeresztúr"
+      },
+      {
+         "city": "Alsómocsolád"
+      },
+      {
+         "city": "Alsószentmárton"
+      },
+      {
+         "city": "Apátvarasd"
+      },
+      {
+         "city": "Aranyosgadány"
+      },
+      {
+         "city": "Áta"
+      },
+      {
+         "city": "Babarc"
+      },
+      {
+         "city": "Babarcszőlős"
+      },
+      {
+         "city": "Bakóca"
+      },
+      {
+         "city": "Bakonya"
+      },
+      {
+         "city": "Baksa"
+      },
+      {
+         "city": "Bánfa"
+      },
+      {
+         "city": "Bár"
+      },
+      {
+         "city": "Baranyahidvég"
+      },
+      {
+         "city": "Baranyajenő"
+      },
+      {
+         "city": "Baranyaszentgyörgy"
+      },
+      {
+         "city": "Basal"
+      },
+      {
+         "city": "Belvárdgyula"
+      },
+      {
+         "city": "Beremend"
+      },
+      {
+         "city": "Berkesd"
+      },
+      {
+         "city": "Besence"
+      },
+      {
+         "city": "Bezedek"
+      },
+      {
+         "city": "Bicsérd"
+      },
+      {
+         "city": "Bikal"
+      },
+      {
+         "city": "Birján"
+      },
+      {
+         "city": "Bisse"
+      },
+      {
+         "city": "Bocska"
+      },
+      {
+         "city": "Bodajk"
+      },
+      {
+         "city": "Bódvalenke"
+      },
+      {
+         "city": "Bódvarákó"
+      },
+      {
+         "city": "Bódvaszilas"
+      },
+      {
+         "city": "Bogyoszló"
+      },
+      {
+         "city": "Bokor"
+      },
+      {
+         "city": "Bolhó"
+      },
+      {
+         "city": "Borsfa"
+      },
+      {
+         "city": "Borsodgeszt"
+      },
+      {
+         "city": "Bükkszék"
+      },
+      {
+         "city": "Büssü"
+      },
+      {
+         "city": "Csányoszró"
+      },
+      {
+         "city": "Csarnóta"
+      },
+      {
+         "city": "Csebény"
+      },
+      {
+         "city": "Cserdi"
+      },
+      {
+         "city": "Cserkút"
+      },
+      {
+         "city": "Csertő"
+      },
+      {
+         "city": "Csombárd"
+      },
+      {
+         "city": "Cún"
+      },
+      {
+         "city": "Dencsháza"
+      },
+      {
+         "city": "Dinnyeberki"
+      },
+      {
+         "city": "Diósviszló"
+      },
+      {
+         "city": "Drávacsehi"
+      },
+      {
+         "city": "Drávacsepely"
+      },
+      {
+         "city": "Drávafok"
+      },
+      {
+         "city": "Drávaiványi"
+      },
+      {
+         "city": "Drávakeresztúr"
+      },
+      {
+         "city": "Drávapalkonya"
+      },
+      {
+         "city": "Drávapiski"
+      },
+      {
+         "city": "Drávaszabolcs"
+      },
+      {
+         "city": "Drávaszerdahely"
+      },
+      {
+         "city": "Drávasztára"
+      },
+      {
+         "city": "Dunaszekcső"
+      },
+      {
+         "city": "Egerág"
+      },
+      {
+         "city": "Egyházasharaszti"
+      },
+      {
+         "city": "Egyházaskozár"
+      },
+      {
+         "city": "Ellend"
+      },
+      {
+         "city": "Endrőc"
+      },
+      {
+         "city": "Erdősmárok"
+      },
+      {
+         "city": "Erdősmecske"
+      },
+      {
+         "city": "Erzsébet"
+      },
+      {
+         "city": "Fazekasboda"
+      },
+      {
+         "city": "Feked"
+      },
+      {
+         "city": "Felsőegerszeg"
+      },
+      {
+         "city": "Felsőszentmárton"
+      },
+      {
+         "city": "Garé"
+      },
+      {
+         "city": "Gerde"
+      },
+      {
+         "city": "Gerényes"
+      },
+      {
+         "city": "Geresdlak"
+      },
+      {
+         "city": "Gilvánfa"
+      },
+      {
+         "city": "Gógánfa"
+      },
+      {
+         "city": "Gömörszőlős"
+      },
+      {
+         "city": "Gönc"
+      },
+      {
+         "city": "Gordisa"
+      },
+      {
+         "city": "Görgeteg"
+      },
+      {
+         "city": "Gyód"
+      },
+      {
+         "city": "Gyöngyös"
+      },
+      {
+         "city": "Gyöngyösoroszi"
+      },
+      {
+         "city": "Harkány"
+      },
+      {
+         "city": "Hásságy"
+      },
+      {
+         "city": "Hegyhátmaróc"
+      },
+      {
+         "city": "Hegyszentmárton"
+      },
+      {
+         "city": "Helesfa"
+      },
+      {
+         "city": "Hetvehely"
+      },
+      {
+         "city": "Hidas"
+      },
+      {
+         "city": "Himesháza"
+      },
+      {
+         "city": "Hirics"
+      },
+      {
+         "city": "Hobol"
+      },
+      {
+         "city": "Homokszentgyörgy"
+      },
+      {
+         "city": "Hortobágy"
+      },
+      {
+         "city": "Horvátzsidány"
+      },
+      {
+         "city": "Husztót"
+      },
+      {
+         "city": "Ibafa"
+      },
+      {
+         "city": "Illocska"
+      },
+      {
+         "city": "Ipacsfa"
+      },
+      {
+         "city": "Ivánbattyán"
+      },
+      {
+         "city": "Ivándárda"
+      },
+      {
+         "city": "Kacsóta"
+      },
+      {
+         "city": "Kákics"
+      },
+      {
+         "city": "Kárász"
+      },
+      {
+         "city": "Kásád"
+      },
+      {
+         "city": "Katádfa"
+      },
+      {
+         "city": "Kátoly"
+      },
+      {
+         "city": "Kékesd"
+      },
+      {
+         "city": "Kémes"
+      },
+      {
+         "city": "Kemse"
+      },
+      {
+         "city": "Keszü"
+      },
+      {
+         "city": "Kétújfalu"
+      },
+      {
+         "city": "Királyegyháza"
+      },
+      {
+         "city": "Kisasszonyfa"
+      },
+      {
+         "city": "Kisbeszterce"
+      },
+      {
+         "city": "Kisbudmér"
+      },
+      {
+         "city": "Kisdér"
+      },
+      {
+         "city": "Kisdobsza"
+      },
+      {
+         "city": "Kishajmás"
+      },
+      {
+         "city": "Kisharsány"
+      },
+      {
+         "city": "Kisherend"
+      },
+      {
+         "city": "Kisjakabfalva"
+      },
+      {
+         "city": "Kiskassa"
+      },
+      {
+         "city": "Kislippó"
+      },
+      {
+         "city": "Kisnyárád"
+      },
+      {
+         "city": "Kisszentmárton"
+      },
+      {
+         "city": "Kistamási"
+      },
+      {
+         "city": "Kistapolca"
+      },
+      {
+         "city": "Kistótfalu"
+      },
+      {
+         "city": "Kisvaszar"
+      },
+      {
+         "city": "Kölked"
+      },
+      {
+         "city": "Kolontár"
+      },
+      {
+         "city": "Kömpöc"
+      },
+      {
+         "city": "Kondoros"
+      },
+      {
+         "city": "Kóny"
+      },
+      {
+         "city": "Koppányszántó"
+      },
+      {
+         "city": "Körmend"
+      },
+      {
+         "city": "Környe"
+      },
+      {
+         "city": "Kőröshegy"
+      },
+      {
+         "city": "Köveskál"
+      },
+      {
+         "city": "Kozárd"
+      },
+      {
+         "city": "Lánycsók"
+      },
+      {
+         "city": "Lapáncsa"
+      },
+      {
+         "city": "Liget"
+      },
+      {
+         "city": "Lippó"
+      },
+      {
+         "city": "Liptód"
+      },
+      {
+         "city": "Lórév"
+      },
+      {
+         "city": "Lőrinci"
+      },
+      {
+         "city": "Lúzsok"
+      },
+      {
+         "city": "Mágocs"
+      },
+      {
+         "city": "Magyarbóly"
+      },
+      {
+         "city": "Magyaregregy"
+      },
+      {
+         "city": "Magyarhertelend"
+      },
+      {
+         "city": "Magyarlukafa"
+      },
+      {
+         "city": "Magyarmecske"
+      },
+      {
+         "city": "Magyarsarlós"
+      },
+      {
+         "city": "Magyarszék"
+      },
+      {
+         "city": "Magyartelek"
+      },
+      {
+         "city": "Majs"
+      },
+      {
+         "city": "Mánfa"
+      },
+      {
+         "city": "Maráza"
+      },
+      {
+         "city": "Márfa"
+      },
+      {
+         "city": "Máriakéménd"
+      },
+      {
+         "city": "Markóc"
+      },
+      {
+         "city": "Marócsa"
+      },
+      {
+         "city": "Márok"
+      },
+      {
+         "city": "Martonfa"
+      },
+      {
+         "city": "Mátyásdomb"
+      },
+      {
+         "city": "Máza"
+      },
+      {
+         "city": "Mecseknádasd"
+      },
+      {
+         "city": "Mecsekpölöske"
+      },
+      {
+         "city": "Mekényes"
+      },
+      {
+         "city": "Merenye"
+      },
+      {
+         "city": "Meződ"
+      },
+      {
+         "city": "Mindszentgodisa"
+      },
+      {
+         "city": "Moha"
+      },
+      {
+         "city": "Mohács"
+      },
+      {
+         "city": "Mohács"
+      },
+      {
+         "city": "Molnaszecsőd"
+      },
+      {
+         "city": "Monoszló"
+      },
+      {
+         "city": "Mosonszolnok"
+      },
+      {
+         "city": "Nagybudmér"
+      },
+      {
+         "city": "Nagycsány"
+      },
+      {
+         "city": "Nagydobsza"
+      },
+      {
+         "city": "Nagyhajmás"
+      },
+      {
+         "city": "Nagyharsány"
+      },
+      {
+         "city": "Nagykőrös"
+      },
+      {
+         "city": "Nagynyárád"
+      },
+      {
+         "city": "Nagypall"
+      },
+      {
+         "city": "Nagypeterd"
+      },
+      {
+         "city": "Nagytőke"
+      },
+      {
+         "city": "Nagyváty"
+      },
+      {
+         "city": "Nemeske"
+      },
+      {
+         "city": "Nyugotszenterzsébet"
+      },
+      {
+         "city": "Óbánya"
+      },
+      {
+         "city": "Ócsa"
+      },
+      {
+         "city": "Ócsárd"
+      },
+      {
+         "city": "Óföldeák"
+      },
+      {
+         "city": "Óhid"
+      },
+      {
+         "city": "Okány"
+      },
+      {
+         "city": "Olaszfalu"
+      },
+      {
+         "city": "Ópusztaszer"
+      },
+      {
+         "city": "Orfű"
+      },
+      {
+         "city": "Orosztony"
+      },
+      {
+         "city": "Palé"
+      },
+      {
+         "city": "Palkonya"
+      },
+      {
+         "city": "Palotabozsok"
+      },
+      {
+         "city": "Páprád"
+      },
+      {
+         "city": "Patapoklosi"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécs"
+      },
+      {
+         "city": "Pécsbagota"
+      },
+      {
+         "city": "Pécsdevecser"
+      },
+      {
+         "city": "Pécsudvard"
+      },
+      {
+         "city": "Pécsvárad"
+      },
+      {
+         "city": "Pellérd"
+      },
+      {
+         "city": "Pereked"
+      },
+      {
+         "city": "Peterd"
+      },
+      {
+         "city": "Pettend"
+      },
+      {
+         "city": "Piskó"
+      },
+      {
+         "city": "Pócsa"
+      },
+      {
+         "city": "Pogány"
+      },
+      {
+         "city": "Rádfalva"
+      },
+      {
+         "city": "Regenye"
+      },
+      {
+         "city": "Romhány"
+      },
+      {
+         "city": "Romonya"
+      },
+      {
+         "city": "Sámod"
+      },
+      {
+         "city": "Sárok"
+      },
+      {
+         "city": "Sásd"
+      },
+      {
+         "city": "Sátorhely"
+      },
+      {
+         "city": "Sellye"
+      },
+      {
+         "city": "Siklós"
+      },
+      {
+         "city": "Siklós"
+      },
+      {
+         "city": "Siklósbodony"
+      },
+      {
+         "city": "Siklósnagyfalu"
+      },
+      {
+         "city": "Som"
+      },
+      {
+         "city": "Somogyacsa"
+      },
+      {
+         "city": "Somogygeszti"
+      },
+      {
+         "city": "Somogyhárságy"
+      },
+      {
+         "city": "Somogyvár"
+      },
+      {
+         "city": "Sóshartyán"
+      },
+      {
+         "city": "Sükösd"
+      },
+      {
+         "city": "Szabadszentkirály"
+      },
+      {
+         "city": "Szágy"
+      },
+      {
+         "city": "Szajk"
+      },
+      {
+         "city": "Szalánta"
+      },
+      {
+         "city": "Szalatnak"
+      },
+      {
+         "city": "Szaporca"
+      },
+      {
+         "city": "Szárász"
+      },
+      {
+         "city": "Szászvár"
+      },
+      {
+         "city": "Szava"
+      },
+      {
+         "city": "Szebény"
+      },
+      {
+         "city": "Szederkény"
+      },
+      {
+         "city": "Székelyszabar"
+      },
+      {
+         "city": "Szellő"
+      },
+      {
+         "city": "Szemely"
+      },
+      {
+         "city": "Szentdénes"
+      },
+      {
+         "city": "Szentegát"
+      },
+      {
+         "city": "Szentkatalin"
+      },
+      {
+         "city": "Szentlászló"
+      },
+      {
+         "city": "Szentlőrinc"
+      },
+      {
+         "city": "Szigetvár"
+      },
+      {
+         "city": "Szilágy"
+      },
+      {
+         "city": "Szilvás"
+      },
+      {
+         "city": "Szombathely"
+      },
+      {
+         "city": "Szomód"
+      },
+      {
+         "city": "Szorosad"
+      },
+      {
+         "city": "Szuhakálló"
+      },
+      {
+         "city": "Szurdokpüspöki"
+      },
+      {
+         "city": "Tarrós"
+      },
+      {
+         "city": "Tékes"
+      },
+      {
+         "city": "Teklafalu"
+      },
+      {
+         "city": "Tengeri"
+      },
+      {
+         "city": "Tésenfa"
+      },
+      {
+         "city": "Téseny"
+      },
+      {
+         "city": "Tófű"
+      },
+      {
+         "city": "Tömörkény"
+      },
+      {
+         "city": "Tornyospálca"
+      },
+      {
+         "city": "Tótvázsony"
+      },
+      {
+         "city": "Túrkeve"
+      },
+      {
+         "city": "Udvar"
+      },
+      {
+         "city": "Újpetre"
+      },
+      {
+         "city": "Vajszló"
+      },
+      {
+         "city": "Várad"
+      },
+      {
+         "city": "Varga"
+      },
+      {
+         "city": "Vásárosbéc"
+      },
+      {
+         "city": "Vásárosdombó"
+      },
+      {
+         "city": "Vázsnok"
+      },
+      {
+         "city": "Vejti"
+      },
+      {
+         "city": "Vékény"
+      },
+      {
+         "city": "Velény"
+      },
+      {
+         "city": "Véménd"
+      },
+      {
+         "city": "Versend"
+      },
+      {
+         "city": "Villány"
+      },
+      {
+         "city": "Villánykövesd"
+      },
+      {
+         "city": "Vokány"
+      },
+      {
+         "city": "Zádor"
+      },
+      {
+         "city": "Zaláta"
+      },
+      {
+         "city": "Zengővárkony"
+      },
+      {
+         "city": "Zók"
+      }
+   ],
+   "Heves": [
+      {
+         "city": "Abasár"
+      },
+      {
+         "city": "Adács"
+      },
+      {
+         "city": "Aldebrő"
+      },
+      {
+         "city": "Andornaktálya"
+      },
+      {
+         "city": "Apc"
+      },
+      {
+         "city": "Átány"
+      },
+      {
+         "city": "Atkár"
+      },
+      {
+         "city": "Balaton"
+      },
+      {
+         "city": "Bátor"
+      },
+      {
+         "city": "Bekölce"
+      },
+      {
+         "city": "Bélapátfalva"
+      },
+      {
+         "city": "Besenyőtelek"
+      },
+      {
+         "city": "Bocfölde"
+      },
+      {
+         "city": "Bödeháza"
+      },
+      {
+         "city": "Bogyiszló"
+      },
+      {
+         "city": "Bükkszenterzsébet"
+      },
+      {
+         "city": "Bükkszentkereszt"
+      },
+      {
+         "city": "Bükkzsérc"
+      },
+      {
+         "city": "Csány"
+      },
+      {
+         "city": "Demjén"
+      },
+      {
+         "city": "Detk"
+      },
+      {
+         "city": "Dombegyház"
+      },
+      {
+         "city": "Dombiratos"
+      },
+      {
+         "city": "Ecséd"
+      },
+      {
+         "city": "Eger"
+      },
+      {
+         "city": "Eger"
+      },
+      {
+         "city": "Eger"
+      },
+      {
+         "city": "Egerbakta"
+      },
+      {
+         "city": "Egerbocs"
+      },
+      {
+         "city": "Egercsehi"
+      },
+      {
+         "city": "Egerfarmos"
+      },
+      {
+         "city": "Egerszalók"
+      },
+      {
+         "city": "Égerszög"
+      },
+      {
+         "city": "Erdőkövesd"
+      },
+      {
+         "city": "Erdőtelek"
+      },
+      {
+         "city": "Erk"
+      },
+      {
+         "city": "Fedémes"
+      },
+      {
+         "city": "Feldebrő"
+      },
+      {
+         "city": "Felsőtárkány"
+      },
+      {
+         "city": "Füzesabony"
+      },
+      {
+         "city": "Gyöngyös"
+      },
+      {
+         "city": "Gyöngyös"
+      },
+      {
+         "city": "Gyöngyös"
+      },
+      {
+         "city": "Gyöngyösfalu"
+      },
+      {
+         "city": "Gyöngyösmellék"
+      },
+      {
+         "city": "Gyöngyöspata"
+      },
+      {
+         "city": "Gyöngyössolymos"
+      },
+      {
+         "city": "Gyöngyöstarján"
+      },
+      {
+         "city": "Gyönk"
+      },
+      {
+         "city": "Halmajugra"
+      },
+      {
+         "city": "Hatvan"
+      },
+      {
+         "city": "Heréd"
+      },
+      {
+         "city": "Heves"
+      },
+      {
+         "city": "Hevesaranyos"
+      },
+      {
+         "city": "Hevesvezekény"
+      },
+      {
+         "city": "Horpács"
+      },
+      {
+         "city": "Istenmezeje"
+      },
+      {
+         "city": "Ivád"
+      },
+      {
+         "city": "Kál"
+      },
+      {
+         "city": "Kápolna"
+      },
+      {
+         "city": "Karácsond"
+      },
+      {
+         "city": "Kerecsend"
+      },
+      {
+         "city": "Kisfüzes"
+      },
+      {
+         "city": "Kiskőrös"
+      },
+      {
+         "city": "Kisnána"
+      },
+      {
+         "city": "Komjáti"
+      },
+      {
+         "city": "Körösladány"
+      },
+      {
+         "city": "Lovászhetény"
+      },
+      {
+         "city": "Lovászi"
+      },
+      {
+         "city": "Lovászpatona"
+      },
+      {
+         "city": "Ludas"
+      },
+      {
+         "city": "Maklár"
+      },
+      {
+         "city": "Markaz"
+      },
+      {
+         "city": "Mátraballa"
+      },
+      {
+         "city": "Mátraderecske"
+      },
+      {
+         "city": "Mátraszentimre"
+      },
+      {
+         "city": "Mátraszentimre"
+      },
+      {
+         "city": "Mezőszemere"
+      },
+      {
+         "city": "Mezőtárkány"
+      },
+      {
+         "city": "Mikófalva"
+      },
+      {
+         "city": "Monor"
+      },
+      {
+         "city": "Nagyfüged"
+      },
+      {
+         "city": "Nagykorpád"
+      },
+      {
+         "city": "Nagyréde"
+      },
+      {
+         "city": "Nagytálya"
+      },
+      {
+         "city": "Nagyút"
+      },
+      {
+         "city": "Nagyvisnyó"
+      },
+      {
+         "city": "Noszvaj"
+      },
+      {
+         "city": "Nova"
+      },
+      {
+         "city": "Örkény"
+      },
+      {
+         "city": "Parád"
+      },
+      {
+         "city": "Parád"
+      },
+      {
+         "city": "Parádsasvár"
+      },
+      {
+         "city": "Pély"
+      },
+      {
+         "city": "Pétervására"
+      },
+      {
+         "city": "Petőfibánya"
+      },
+      {
+         "city": "Pörböly"
+      },
+      {
+         "city": "Recsk"
+      },
+      {
+         "city": "Röszke"
+      },
+      {
+         "city": "Sarud"
+      },
+      {
+         "city": "Sirok"
+      },
+      {
+         "city": "Szajla"
+      },
+      {
+         "city": "Szentdomonkos"
+      },
+      {
+         "city": "Szihalom"
+      },
+      {
+         "city": "Szilvásszentmárton"
+      },
+      {
+         "city": "Szúcs"
+      },
+      {
+         "city": "Szulok"
+      },
+      {
+         "city": "Tarnabod"
+      },
+      {
+         "city": "Tarnalelesz"
+      },
+      {
+         "city": "Tarnaméra"
+      },
+      {
+         "city": "Tarnaörs"
+      },
+      {
+         "city": "Tarnaszentmária"
+      },
+      {
+         "city": "Tarnaszentmiklós"
+      },
+      {
+         "city": "Tarnazsadány"
+      },
+      {
+         "city": "Tenk"
+      },
+      {
+         "city": "Terpes"
+      },
+      {
+         "city": "Tiszanána"
+      },
+      {
+         "city": "Tófalu"
+      },
+      {
+         "city": "Újlőrincfalva"
+      },
+      {
+         "city": "Vámosgyörk"
+      },
+      {
+         "city": "Váraszó"
+      },
+      {
+         "city": "Vécs"
+      },
+      {
+         "city": "Verpelét"
+      },
+      {
+         "city": "Visonta"
+      },
+      {
+         "city": "Visonta"
+      },
+      {
+         "city": "Visznek"
+      },
+      {
+         "city": "Zagyvaszántó"
+      },
+      {
+         "city": "Zaránk"
+      }
+   ],
+   "Borsod-Abaúj-Zemplén": [
+      {
+         "city": "Abaújalpár"
+      },
+      {
+         "city": "Abaújkér"
+      },
+      {
+         "city": "Abaújlak"
+      },
+      {
+         "city": "Abaújszántó"
+      },
+      {
+         "city": "Abaújszolnok"
+      },
+      {
+         "city": "Abaújvár"
+      },
+      {
+         "city": "Abod"
+      },
+      {
+         "city": "Aggtelek"
+      },
+      {
+         "city": "Alacska"
+      },
+      {
+         "city": "Alsóberecki"
+      },
+      {
+         "city": "Alsódobsza"
+      },
+      {
+         "city": "Alsógagy"
+      },
+      {
+         "city": "Alsóregmec"
+      },
+      {
+         "city": "Alsószuha"
+      },
+      {
+         "city": "Alsótelekes"
+      },
+      {
+         "city": "Alsóvadász"
+      },
+      {
+         "city": "Alsózsolca"
+      },
+      {
+         "city": "Arka"
+      },
+      {
+         "city": "Arló"
+      },
+      {
+         "city": "Arnót"
+      },
+      {
+         "city": "Ároktő"
+      },
+      {
+         "city": "Aszaló"
+      },
+      {
+         "city": "Baktakék"
+      },
+      {
+         "city": "Balajt"
+      },
+      {
+         "city": "Bánhorváti"
+      },
+      {
+         "city": "Bánréve"
+      },
+      {
+         "city": "Baskó"
+      },
+      {
+         "city": "Becskeháza"
+      },
+      {
+         "city": "Bekecs"
+      },
+      {
+         "city": "Berente"
+      },
+      {
+         "city": "Beret"
+      },
+      {
+         "city": "Berzék"
+      },
+      {
+         "city": "Bodonhely"
+      },
+      {
+         "city": "Bodony"
+      },
+      {
+         "city": "Bodorfa"
+      },
+      {
+         "city": "Bodrog"
+      },
+      {
+         "city": "Bodroghalom"
+      },
+      {
+         "city": "Bodrogkeresztúr"
+      },
+      {
+         "city": "Bodrogkisfalud"
+      },
+      {
+         "city": "Bodrogolaszi"
+      },
+      {
+         "city": "Böhönye"
+      },
+      {
+         "city": "Bojt"
+      },
+      {
+         "city": "Bókaháza"
+      },
+      {
+         "city": "Bonnya"
+      },
+      {
+         "city": "Bőny"
+      },
+      {
+         "city": "Bonyhád"
+      },
+      {
+         "city": "Bonyhád"
+      },
+      {
+         "city": "Bonyhádvarasd"
+      },
+      {
+         "city": "Börcs"
+      },
+      {
+         "city": "Bordány"
+      },
+      {
+         "city": "Borsodnádasd"
+      },
+      {
+         "city": "Borsodszirák"
+      },
+      {
+         "city": "Bükkaranyos"
+      },
+      {
+         "city": "Bükkmogyorósd"
+      },
+      {
+         "city": "Bükkösd"
+      },
+      {
+         "city": "Bükkszentmárton"
+      },
+      {
+         "city": "Bürüs"
+      },
+      {
+         "city": "Buzsák"
+      },
+      {
+         "city": "Cigánd"
+      },
+      {
+         "city": "Csenyéte"
+      },
+      {
+         "city": "Cserépfalu"
+      },
+      {
+         "city": "Cserépváralja"
+      },
+      {
+         "city": "Csernely"
+      },
+      {
+         "city": "Csincse"
+      },
+      {
+         "city": "Csobád"
+      },
+      {
+         "city": "Csobaj"
+      },
+      {
+         "city": "Csókakő"
+      },
+      {
+         "city": "Damak"
+      },
+      {
+         "city": "Dámóc"
+      },
+      {
+         "city": "Debréte"
+      },
+      {
+         "city": "Dédestapolcsány"
+      },
+      {
+         "city": "Detek"
+      },
+      {
+         "city": "Döbrököz"
+      },
+      {
+         "city": "Dozmat"
+      },
+      {
+         "city": "Dubicsány"
+      },
+      {
+         "city": "Edelény"
+      },
+      {
+         "city": "Edelény"
+      },
+      {
+         "city": "Egerlövő"
+      },
+      {
+         "city": "Egerszólát"
+      },
+      {
+         "city": "Emőd"
+      },
+      {
+         "city": "Encs"
+      },
+      {
+         "city": "Encs"
+      },
+      {
+         "city": "Erdőbénye"
+      },
+      {
+         "city": "Erdőhorváti"
+      },
+      {
+         "city": "Fáj"
+      },
+      {
+         "city": "Fancsal"
+      },
+      {
+         "city": "Farkaslyuk"
+      },
+      {
+         "city": "Felsőberecki"
+      },
+      {
+         "city": "Felsődobsza"
+      },
+      {
+         "city": "Felsőgagy"
+      },
+      {
+         "city": "Felsőkelecsény"
+      },
+      {
+         "city": "Felsőnyárád"
+      },
+      {
+         "city": "Felsőregmec"
+      },
+      {
+         "city": "Felsőtelekes"
+      },
+      {
+         "city": "Felsővadász"
+      },
+      {
+         "city": "Felsőzsolca"
+      },
+      {
+         "city": "Filkeháza"
+      },
+      {
+         "city": "Folyás"
+      },
+      {
+         "city": "Fonyód"
+      },
+      {
+         "city": "Füle"
+      },
+      {
+         "city": "Füzér"
+      },
+      {
+         "city": "Füzérkajata"
+      },
+      {
+         "city": "Füzérkomlós"
+      },
+      {
+         "city": "Füzérradvány"
+      },
+      {
+         "city": "Gadna"
+      },
+      {
+         "city": "Gagyapáti"
+      },
+      {
+         "city": "Gagybátor"
+      },
+      {
+         "city": "Gagyvendégi"
+      },
+      {
+         "city": "Galvács"
+      },
+      {
+         "city": "Garadna"
+      },
+      {
+         "city": "Gelej"
+      },
+      {
+         "city": "Gesztely"
+      },
+      {
+         "city": "Gesztely"
+      },
+      {
+         "city": "Girincs"
+      },
+      {
+         "city": "Göd"
+      },
+      {
+         "city": "Gönyű"
+      },
+      {
+         "city": "Gór"
+      },
+      {
+         "city": "Görbeháza"
+      },
+      {
+         "city": "Györköny"
+      },
+      {
+         "city": "Halmaj"
+      },
+      {
+         "city": "Hangács"
+      },
+      {
+         "city": "Hangony"
+      },
+      {
+         "city": "Háromhuta"
+      },
+      {
+         "city": "Harsány"
+      },
+      {
+         "city": "Hegymeg"
+      },
+      {
+         "city": "Hejce"
+      },
+      {
+         "city": "Hejőbába"
+      },
+      {
+         "city": "Hejőkeresztúr"
+      },
+      {
+         "city": "Hejőkürt"
+      },
+      {
+         "city": "Hejőpapi"
+      },
+      {
+         "city": "Hejőszalonta"
+      },
+      {
+         "city": "Hercegkút"
+      },
+      {
+         "city": "Hernádbűd"
+      },
+      {
+         "city": "Hernádcéce"
+      },
+      {
+         "city": "Hernádkak"
+      },
+      {
+         "city": "Hernádkércs"
+      },
+      {
+         "city": "Hernádnémeti"
+      },
+      {
+         "city": "Hernádpetri"
+      },
+      {
+         "city": "Hernádszentandrás"
+      },
+      {
+         "city": "Hernádszurdok"
+      },
+      {
+         "city": "Hernádvécse"
+      },
+      {
+         "city": "Hét"
+      },
+      {
+         "city": "Hidasnémeti"
+      },
+      {
+         "city": "Hidvégardó"
+      },
+      {
+         "city": "Hollád"
+      },
+      {
+         "city": "Homorúd"
+      },
+      {
+         "city": "Igrici"
+      },
+      {
+         "city": "Imola"
+      },
+      {
+         "city": "Ináncs"
+      },
+      {
+         "city": "Irota"
+      },
+      {
+         "city": "Izsófalva"
+      },
+      {
+         "city": "Jákfalva"
+      },
+      {
+         "city": "Járdánháza"
+      },
+      {
+         "city": "Jósvafő"
+      },
+      {
+         "city": "Kács"
+      },
+      {
+         "city": "Kánó"
+      },
+      {
+         "city": "Kány"
+      },
+      {
+         "city": "Karcsa"
+      },
+      {
+         "city": "Karos"
+      },
+      {
+         "city": "Kazincbarcika"
+      },
+      {
+         "city": "Kázsmárk"
+      },
+      {
+         "city": "Kéked"
+      },
+      {
+         "city": "Kelemér"
+      },
+      {
+         "city": "Kenézlő"
+      },
+      {
+         "city": "Keresztéte"
+      },
+      {
+         "city": "Kesznyéten"
+      },
+      {
+         "city": "Királd"
+      },
+      {
+         "city": "Kiscsécs"
+      },
+      {
+         "city": "Kisgyőr"
+      },
+      {
+         "city": "Kishuta"
+      },
+      {
+         "city": "Kiskinizs"
+      },
+      {
+         "city": "Kisrozvágy"
+      },
+      {
+         "city": "Kissikátor"
+      },
+      {
+         "city": "Kistokaj"
+      },
+      {
+         "city": "Kölesd"
+      },
+      {
+         "city": "Komárom"
+      },
+      {
+         "city": "Komló"
+      },
+      {
+         "city": "Komoró"
+      },
+      {
+         "city": "Konyár"
+      },
+      {
+         "city": "Kosd"
+      },
+      {
+         "city": "Krasznokvajda"
+      },
+      {
+         "city": "Kunszentmárton"
+      },
+      {
+         "city": "Kunsziget"
+      },
+      {
+         "city": "Lácacséke"
+      },
+      {
+         "city": "Ládbesenyő"
+      },
+      {
+         "city": "Lak"
+      },
+      {
+         "city": "Legyesbénye"
+      },
+      {
+         "city": "Léh"
+      },
+      {
+         "city": "Lénárddaróc"
+      },
+      {
+         "city": "Litka"
+      },
+      {
+         "city": "Mád"
+      },
+      {
+         "city": "Makkoshotyka"
+      },
+      {
+         "city": "Mályi"
+      },
+      {
+         "city": "Mályinka"
+      },
+      {
+         "city": "Martonyi"
+      },
+      {
+         "city": "Megyaszó"
+      },
+      {
+         "city": "Méra"
+      },
+      {
+         "city": "Meszes"
+      },
+      {
+         "city": "Mezőcsát"
+      },
+      {
+         "city": "Mezőkeresztes"
+      },
+      {
+         "city": "Mezőkövesd"
+      },
+      {
+         "city": "Mezőnagymihály"
+      },
+      {
+         "city": "Mezőnyárád"
+      },
+      {
+         "city": "Mezőzombor"
+      },
+      {
+         "city": "Mikóháza"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Miskolc"
+      },
+      {
+         "city": "Mogyorósbánya"
+      },
+      {
+         "city": "Molvány"
+      },
+      {
+         "city": "Monaj"
+      },
+      {
+         "city": "Múcsony"
+      },
+      {
+         "city": "Muhi"
+      },
+      {
+         "city": "Nagybarca"
+      },
+      {
+         "city": "Nagycsécs"
+      },
+      {
+         "city": "Nagyhuta"
+      },
+      {
+         "city": "Nagykinizs"
+      },
+      {
+         "city": "Nagyrozvágy"
+      },
+      {
+         "city": "Négyes"
+      },
+      {
+         "city": "Nekézseny"
+      },
+      {
+         "city": "Nemesbikk"
+      },
+      {
+         "city": "Novaj"
+      },
+      {
+         "city": "Nyékládháza"
+      },
+      {
+         "city": "Nyésta"
+      },
+      {
+         "city": "Nyíri"
+      },
+      {
+         "city": "Nyőgér"
+      },
+      {
+         "city": "Okorvölgy"
+      },
+      {
+         "city": "Olcsva"
+      },
+      {
+         "city": "Olcsvaapáti"
+      },
+      {
+         "city": "Őrbottyán"
+      },
+      {
+         "city": "Örményes"
+      },
+      {
+         "city": "Ormosbánya"
+      },
+      {
+         "city": "Orosháza"
+      },
+      {
+         "city": "Orosháza"
+      },
+      {
+         "city": "Orosháza"
+      },
+      {
+         "city": "Orosháza"
+      },
+      {
+         "city": "Oroszi"
+      },
+      {
+         "city": "Oroszlány"
+      },
+      {
+         "city": "Oroszló"
+      },
+      {
+         "city": "Pácin"
+      },
+      {
+         "city": "Pálháza"
+      },
+      {
+         "city": "Pamlény"
+      },
+      {
+         "city": "Pányok"
+      },
+      {
+         "city": "Parasznya"
+      },
+      {
+         "city": "Pere"
+      },
+      {
+         "city": "Perecse"
+      },
+      {
+         "city": "Perkupa"
+      },
+      {
+         "city": "Prügy"
+      },
+      {
+         "city": "Pusztaberki"
+      },
+      {
+         "city": "Pusztamagyaród"
+      },
+      {
+         "city": "Pusztaszentlászló"
+      },
+      {
+         "city": "Radostyán"
+      },
+      {
+         "city": "Ragály"
+      },
+      {
+         "city": "Rakaca"
+      },
+      {
+         "city": "Rakacaszend"
+      },
+      {
+         "city": "Rásonysápberencs"
+      },
+      {
+         "city": "Rátka"
+      },
+      {
+         "city": "Regéc"
+      },
+      {
+         "city": "Répáshuta"
+      },
+      {
+         "city": "Révleányvár"
+      },
+      {
+         "city": "Ricse"
+      },
+      {
+         "city": "Rudabánya"
+      },
+      {
+         "city": "Rudolftelep"
+      },
+      {
+         "city": "Sajóbábony"
+      },
+      {
+         "city": "Sajóecseg"
+      },
+      {
+         "city": "Sajógalgóc"
+      },
+      {
+         "city": "Sajóhidvég"
+      },
+      {
+         "city": "Sajóivánka"
+      },
+      {
+         "city": "Sajókápolna"
+      },
+      {
+         "city": "Sajókaza"
+      },
+      {
+         "city": "Sajókeresztúr"
+      },
+      {
+         "city": "Sajólád"
+      },
+      {
+         "city": "Sajólászlófalva"
+      },
+      {
+         "city": "Sajómercse"
+      },
+      {
+         "city": "Sajónémeti"
+      },
+      {
+         "city": "Sajóörös"
+      },
+      {
+         "city": "Sajópálfala"
+      },
+      {
+         "city": "Sajópetri"
+      },
+      {
+         "city": "Sajópüspöki"
+      },
+      {
+         "city": "Sajósenye"
+      },
+      {
+         "city": "Sajószentpéter"
+      },
+      {
+         "city": "Sajószöged"
+      },
+      {
+         "city": "Sajóvámos"
+      },
+      {
+         "city": "Sajóvelezd"
+      },
+      {
+         "city": "Sály"
+      },
+      {
+         "city": "Sárazsadány"
+      },
+      {
+         "city": "Sárospatak"
+      },
+      {
+         "city": "Sárospatak"
+      },
+      {
+         "city": "Sáta"
+      },
+      {
+         "city": "Sátoraljaújhely"
+      },
+      {
+         "city": "Sátoraljaújhely"
+      },
+      {
+         "city": "Sátoraljaújhely"
+      },
+      {
+         "city": "Sátoraljaújhely"
+      },
+      {
+         "city": "Selyeb"
+      },
+      {
+         "city": "Semjén"
+      },
+      {
+         "city": "Serényfalva"
+      },
+      {
+         "city": "Sima"
+      },
+      {
+         "city": "Sorokpolány"
+      },
+      {
+         "city": "Szakácsi"
+      },
+      {
+         "city": "Szakáld"
+      },
+      {
+         "city": "Szalaszend"
+      },
+      {
+         "city": "Szalonna"
+      },
+      {
+         "city": "Szászfa"
+      },
+      {
+         "city": "Szegi"
+      },
+      {
+         "city": "Szegilong"
+      },
+      {
+         "city": "Szemere"
+      },
+      {
+         "city": "Szendrő"
+      },
+      {
+         "city": "Szendrőlád"
+      },
+      {
+         "city": "Szentistván"
+      },
+      {
+         "city": "Szentistvánbaksa"
+      },
+      {
+         "city": "Szerencs"
+      },
+      {
+         "city": "Szikszó"
+      },
+      {
+         "city": "Szin"
+      },
+      {
+         "city": "Szinpetri"
+      },
+      {
+         "city": "Szirmabesenyő"
+      },
+      {
+         "city": "Szokolya"
+      },
+      {
+         "city": "Szombathely"
+      },
+      {
+         "city": "Szomor"
+      },
+      {
+         "city": "Szügy"
+      },
+      {
+         "city": "Szuha"
+      },
+      {
+         "city": "Szuhafő"
+      },
+      {
+         "city": "Taktabáj"
+      },
+      {
+         "city": "Taktaharkány"
+      },
+      {
+         "city": "Taktakenéz"
+      },
+      {
+         "city": "Taktaszada"
+      },
+      {
+         "city": "Tállya"
+      },
+      {
+         "city": "Tarcal"
+      },
+      {
+         "city": "Tard"
+      },
+      {
+         "city": "Tardona"
+      },
+      {
+         "city": "Telkibánya"
+      },
+      {
+         "city": "Teresztenye"
+      },
+      {
+         "city": "Tibolddaróc"
+      },
+      {
+         "city": "Tiszabábolna"
+      },
+      {
+         "city": "Tiszacsermely"
+      },
+      {
+         "city": "Tiszadorogma"
+      },
+      {
+         "city": "Tiszakarád"
+      },
+      {
+         "city": "Tiszakeszi"
+      },
+      {
+         "city": "Tiszaladány"
+      },
+      {
+         "city": "Tiszalúc"
+      },
+      {
+         "city": "Tiszapalkonya"
+      },
+      {
+         "city": "Tiszatardos"
+      },
+      {
+         "city": "Tiszatarján"
+      },
+      {
+         "city": "Tiszaújváros"
+      },
+      {
+         "city": "Tiszavalk"
+      },
+      {
+         "city": "Tök"
+      },
+      {
+         "city": "Tököl"
+      },
+      {
+         "city": "Tolnanémedi"
+      },
+      {
+         "city": "Tompaládony"
+      },
+      {
+         "city": "Tordas"
+      },
+      {
+         "city": "Tormafölde"
+      },
+      {
+         "city": "Tormás"
+      },
+      {
+         "city": "Tormásliget"
+      },
+      {
+         "city": "Tornakápolna"
+      },
+      {
+         "city": "Trizs"
+      },
+      {
+         "city": "Újcsanálos"
+      },
+      {
+         "city": "Und"
+      },
+      {
+         "city": "Vadna"
+      },
+      {
+         "city": "Vágáshuta"
+      },
+      {
+         "city": "Vajdácska"
+      },
+      {
+         "city": "Vámosszabadi"
+      },
+      {
+         "city": "Varbó"
+      },
+      {
+         "city": "Varbóc"
+      },
+      {
+         "city": "Vatta"
+      },
+      {
+         "city": "Vilmány"
+      },
+      {
+         "city": "Vilyvitány"
+      },
+      {
+         "city": "Viss"
+      },
+      {
+         "city": "Viszló"
+      },
+      {
+         "city": "Vizsoly"
+      },
+      {
+         "city": "Zádorfalva"
+      },
+      {
+         "city": "Zalkod"
+      },
+      {
+         "city": "Zemplénagárd"
+      },
+      {
+         "city": "Ziliz"
+      },
+      {
+         "city": "Zsujta"
+      },
+      {
+         "city": "Zubogy"
+      }
+   ],
+   "Győr-Moson-Sopron": [
+      {
+         "city": "Abda"
+      },
+      {
+         "city": "Acsalag"
+      },
+      {
+         "city": "Ágfalva"
+      },
+      {
+         "city": "Agyagosszergény"
+      },
+      {
+         "city": "Árpás"
+      },
+      {
+         "city": "Ásványráró"
+      },
+      {
+         "city": "Babót"
+      },
+      {
+         "city": "Bágyogszovát"
+      },
+      {
+         "city": "Bakonypéterd"
+      },
+      {
+         "city": "Barbacs"
+      },
+      {
+         "city": "Beled"
+      },
+      {
+         "city": "Bezenye"
+      },
+      {
+         "city": "Bezi"
+      },
+      {
+         "city": "Böde"
+      },
+      {
+         "city": "Bogád"
+      },
+      {
+         "city": "Botpalád"
+      },
+      {
+         "city": "Botykapeterd"
+      },
+      {
+         "city": "Bózsva"
+      },
+      {
+         "city": "Cakóháza"
+      },
+      {
+         "city": "Cirák"
+      },
+      {
+         "city": "Csáfordjánosfa"
+      },
+      {
+         "city": "Csapod"
+      },
+      {
+         "city": "Csér"
+      },
+      {
+         "city": "Csikvánd"
+      },
+      {
+         "city": "Csömör"
+      },
+      {
+         "city": "Darnózseli"
+      },
+      {
+         "city": "Dénesfa"
+      },
+      {
+         "city": "Dorogháza"
+      },
+      {
+         "city": "Dunakiliti"
+      },
+      {
+         "city": "Dunaremete"
+      },
+      {
+         "city": "Dunaszeg"
+      },
+      {
+         "city": "Dunaszentpál"
+      },
+      {
+         "city": "Dunasziget"
+      },
+      {
+         "city": "Ebergőc"
+      },
+      {
+         "city": "Écs"
+      },
+      {
+         "city": "Edve"
+      },
+      {
+         "city": "Egyed"
+      },
+      {
+         "city": "Egyházasfalu"
+      },
+      {
+         "city": "Enese"
+      },
+      {
+         "city": "Farád"
+      },
+      {
+         "city": "Fehértó"
+      },
+      {
+         "city": "Feketeerdő"
+      },
+      {
+         "city": "Felpéc"
+      },
+      {
+         "city": "Fertőboz"
+      },
+      {
+         "city": "Fertőd"
+      },
+      {
+         "city": "Fertőd"
+      },
+      {
+         "city": "Fertőendréd"
+      },
+      {
+         "city": "Fertőhomok"
+      },
+      {
+         "city": "Fertőrákos"
+      },
+      {
+         "city": "Fertőszentmiklós"
+      },
+      {
+         "city": "Fertőszéplak"
+      },
+      {
+         "city": "Görcsöny"
+      },
+      {
+         "city": "Gyalóka"
+      },
+      {
+         "city": "Gyarmat"
+      },
+      {
+         "city": "Gyömöre"
+      },
+      {
+         "city": "Gyömrő"
+      },
+      {
+         "city": "Győr"
+      },
+      {
+         "city": "Győr"
+      },
+      {
+         "city": "Győr"
+      },
+      {
+         "city": "Győr"
+      },
+      {
+         "city": "Győr"
+      },
+      {
+         "city": "Győr"
+      },
+      {
+         "city": "Győr"
+      },
+      {
+         "city": "Győr"
+      },
+      {
+         "city": "Győr"
+      },
+      {
+         "city": "Győr"
+      },
+      {
+         "city": "Győr"
+      },
+      {
+         "city": "Győr"
+      },
+      {
+         "city": "Győr"
+      },
+      {
+         "city": "Győrasszonyfa"
+      },
+      {
+         "city": "Györe"
+      },
+      {
+         "city": "Gyóró"
+      },
+      {
+         "city": "Győrság"
+      },
+      {
+         "city": "Győrsövényház"
+      },
+      {
+         "city": "Győrszemere"
+      },
+      {
+         "city": "Győrújbarát"
+      },
+      {
+         "city": "Győrújfalu"
+      },
+      {
+         "city": "Győrzámoly"
+      },
+      {
+         "city": "Halászi"
+      },
+      {
+         "city": "Harka"
+      },
+      {
+         "city": "Hédervár"
+      },
+      {
+         "city": "Hegyeshalom"
+      },
+      {
+         "city": "Hegykő"
+      },
+      {
+         "city": "Hidegség"
+      },
+      {
+         "city": "Himod"
+      },
+      {
+         "city": "Hövej"
+      },
+      {
+         "city": "Ikrény"
+      },
+      {
+         "city": "Iván"
+      },
+      {
+         "city": "Jánossomorja"
+      },
+      {
+         "city": "Jánossomorja"
+      },
+      {
+         "city": "Jobaháza"
+      },
+      {
+         "city": "Kajárpéc"
+      },
+      {
+         "city": "Kapuvár"
+      },
+      {
+         "city": "Kapuvár"
+      },
+      {
+         "city": "Kimle"
+      },
+      {
+         "city": "Kisbabot"
+      },
+      {
+         "city": "Kisbajcs"
+      },
+      {
+         "city": "Kisbodak"
+      },
+      {
+         "city": "Kisfalud"
+      },
+      {
+         "city": "Kömlőd"
+      },
+      {
+         "city": "Komlósd"
+      },
+      {
+         "city": "Kömörő"
+      },
+      {
+         "city": "Kunszállás"
+      },
+      {
+         "city": "Lázi"
+      },
+      {
+         "city": "Lébény"
+      },
+      {
+         "city": "Levél"
+      },
+      {
+         "city": "Lipót"
+      },
+      {
+         "city": "Lövő"
+      },
+      {
+         "city": "Maglóca"
+      },
+      {
+         "city": "Magyarkeresztúr"
+      },
+      {
+         "city": "Máriakálnok"
+      },
+      {
+         "city": "Markotabödöge"
+      },
+      {
+         "city": "Mecsér"
+      },
+      {
+         "city": "Mérges"
+      },
+      {
+         "city": "Mezőörs"
+      },
+      {
+         "city": "Mezőörs"
+      },
+      {
+         "city": "Mihályi"
+      },
+      {
+         "city": "Móricgát"
+      },
+      {
+         "city": "Mosdós"
+      },
+      {
+         "city": "Mosonmagyaróvár"
+      },
+      {
+         "city": "Mosonszentmiklós"
+      },
+      {
+         "city": "Mosonszentmiklós"
+      },
+      {
+         "city": "Nagybajcs"
+      },
+      {
+         "city": "Nagycenk"
+      },
+      {
+         "city": "Nagylózs"
+      },
+      {
+         "city": "Nagyszentjános"
+      },
+      {
+         "city": "Nemeskér"
+      },
+      {
+         "city": "Nyalka"
+      },
+      {
+         "city": "Nyúl"
+      },
+      {
+         "city": "Őrimagyarósd"
+      },
+      {
+         "city": "Ózdfalu"
+      },
+      {
+         "city": "Páli"
+      },
+      {
+         "city": "Pannonhalma"
+      },
+      {
+         "city": "Pásztori"
+      },
+      {
+         "city": "Pázmándfalu"
+      },
+      {
+         "city": "Pér"
+      },
+      {
+         "city": "Pereszteg"
+      },
+      {
+         "city": "Petőháza"
+      },
+      {
+         "city": "Pinnye"
+      },
+      {
+         "city": "Pórszombat"
+      },
+      {
+         "city": "Püspökladány"
+      },
+      {
+         "city": "Pusztaszer"
+      },
+      {
+         "city": "Rábacsanak"
+      },
+      {
+         "city": "Rábacsécsény"
+      },
+      {
+         "city": "Rábakecöl"
+      },
+      {
+         "city": "Rábapatona"
+      },
+      {
+         "city": "Rábapordány"
+      },
+      {
+         "city": "Rábasebes"
+      },
+      {
+         "city": "Rábaszentandrás"
+      },
+      {
+         "city": "Rábaszentmihály"
+      },
+      {
+         "city": "Rábaszentmiklós"
+      },
+      {
+         "city": "Rábatamási"
+      },
+      {
+         "city": "Rábcakapi"
+      },
+      {
+         "city": "Rajka"
+      },
+      {
+         "city": "Ravazd"
+      },
+      {
+         "city": "Répceszemere"
+      },
+      {
+         "city": "Répcevis"
+      },
+      {
+         "city": "Rétalap"
+      },
+      {
+         "city": "Rózsafa"
+      },
+      {
+         "city": "Sarród"
+      },
+      {
+         "city": "Sarród"
+      },
+      {
+         "city": "Sobor"
+      },
+      {
+         "city": "Söjtör"
+      },
+      {
+         "city": "Soponya"
+      },
+      {
+         "city": "Sopron"
+      },
+      {
+         "city": "Sopron"
+      },
+      {
+         "city": "Sopron"
+      },
+      {
+         "city": "Sopron"
+      },
+      {
+         "city": "Sopronhorpács"
+      },
+      {
+         "city": "Sopronkövesd"
+      },
+      {
+         "city": "Szakony"
+      },
+      {
+         "city": "Szany"
+      },
+      {
+         "city": "Szárföld"
+      },
+      {
+         "city": "Szerecseny"
+      },
+      {
+         "city": "Szil"
+      },
+      {
+         "city": "Szilsárkány"
+      },
+      {
+         "city": "Táp"
+      },
+      {
+         "city": "Tápszentmiklós"
+      },
+      {
+         "city": "Tarjánpuszta"
+      },
+      {
+         "city": "Tárnokréti"
+      },
+      {
+         "city": "Tényő"
+      },
+      {
+         "city": "Tét"
+      },
+      {
+         "city": "Torvaj"
+      },
+      {
+         "city": "Újkér"
+      },
+      {
+         "city": "Újrónafő"
+      },
+      {
+         "city": "Üllés"
+      },
+      {
+         "city": "Vadosfa"
+      },
+      {
+         "city": "Vág"
+      },
+      {
+         "city": "Vámosújfalu"
+      },
+      {
+         "city": "Várbalog"
+      },
+      {
+         "city": "Vásárosfalu"
+      },
+      {
+         "city": "Vének"
+      },
+      {
+         "city": "Veszkény"
+      },
+      {
+         "city": "Vitnyéd"
+      },
+      {
+         "city": "Völcsej"
+      },
+      {
+         "city": "Zsebeháza"
+      },
+      {
+         "city": "Zsira"
+      }
+   ],
+   "Pest": [
+      {
+         "city": "Abony"
+      },
+      {
+         "city": "Acsa"
+      },
+      {
+         "city": "Albertirsa"
+      },
+      {
+         "city": "Alsónémedi"
+      },
+      {
+         "city": "Apaj"
+      },
+      {
+         "city": "Áporka"
+      },
+      {
+         "city": "Aszód"
+      },
+      {
+         "city": "Bag"
+      },
+      {
+         "city": "Bénye"
+      },
+      {
+         "city": "Bernecebaráti"
+      },
+      {
+         "city": "Biatorbágy"
+      },
+      {
+         "city": "Budajenő"
+      },
+      {
+         "city": "Budakalász"
+      },
+      {
+         "city": "Budakeszi"
+      },
+      {
+         "city": "Budaörs"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Budapest"
+      },
+      {
+         "city": "Bugyi"
+      },
+      {
+         "city": "Cegléd"
+      },
+      {
+         "city": "Cegléd"
+      },
+      {
+         "city": "Ceglédbercel"
+      },
+      {
+         "city": "Csemő"
+      },
+      {
+         "city": "Csévharaszt"
+      },
+      {
+         "city": "Csobánka"
+      },
+      {
+         "city": "Csokvaomány"
+      },
+      {
+         "city": "Csörnyeföld"
+      },
+      {
+         "city": "Csővár"
+      },
+      {
+         "city": "Dabas"
+      },
+      {
+         "city": "Dabas"
+      },
+      {
+         "city": "Dabas"
+      },
+      {
+         "city": "Dánszentmiklós"
+      },
+      {
+         "city": "Dány"
+      },
+      {
+         "city": "Délegyháza"
+      },
+      {
+         "city": "Diósd"
+      },
+      {
+         "city": "Domaszék"
+      },
+      {
+         "city": "Dorog"
+      },
+      {
+         "city": "Dunabogdány"
+      },
+      {
+         "city": "Dunaharaszti"
+      },
+      {
+         "city": "Dunakeszi"
+      },
+      {
+         "city": "Dunavarsány"
+      },
+      {
+         "city": "Ecser"
+      },
+      {
+         "city": "Érd"
+      },
+      {
+         "city": "Érd"
+      },
+      {
+         "city": "Érd"
+      },
+      {
+         "city": "Erdőkertes"
+      },
+      {
+         "city": "Farmos"
+      },
+      {
+         "city": "Felsőpakony"
+      },
+      {
+         "city": "Fonyód"
+      },
+      {
+         "city": "Galgagyörk"
+      },
+      {
+         "city": "Galgahévíz"
+      },
+      {
+         "city": "Galgamácsa"
+      },
+      {
+         "city": "Gödöllő"
+      },
+      {
+         "city": "Golop"
+      },
+      {
+         "city": "Gomba"
+      },
+      {
+         "city": "Gombosszeg"
+      },
+      {
+         "city": "Gyál"
+      },
+      {
+         "city": "Gyöngyfa"
+      },
+      {
+         "city": "Halásztelek"
+      },
+      {
+         "city": "Herceghalom"
+      },
+      {
+         "city": "Hernád"
+      },
+      {
+         "city": "Hévízgyörk"
+      },
+      {
+         "city": "Iklad"
+      },
+      {
+         "city": "Inárcs"
+      },
+      {
+         "city": "Ipolydamásd"
+      },
+      {
+         "city": "Ipolytölgyes"
+      },
+      {
+         "city": "Isaszeg"
+      },
+      {
+         "city": "Jászkarajenő"
+      },
+      {
+         "city": "Kakucs"
+      },
+      {
+         "city": "Kartal"
+      },
+      {
+         "city": "Káva"
+      },
+      {
+         "city": "Kemence"
+      },
+      {
+         "city": "Kerepes"
+      },
+      {
+         "city": "Kerepes"
+      },
+      {
+         "city": "Kiskunlacháza"
+      },
+      {
+         "city": "Kismaros"
+      },
+      {
+         "city": "Kisnémedi"
+      },
+      {
+         "city": "Kisoroszi"
+      },
+      {
+         "city": "Kistarcsa"
+      },
+      {
+         "city": "Kocs"
+      },
+      {
+         "city": "Kocsola"
+      },
+      {
+         "city": "Kompolt"
+      },
+      {
+         "city": "Kondó"
+      },
+      {
+         "city": "Kőszegpaty"
+      },
+      {
+         "city": "Leányfalu"
+      },
+      {
+         "city": "Letkés"
+      },
+      {
+         "city": "Lónya"
+      },
+      {
+         "city": "Maglód"
+      },
+      {
+         "city": "Majosháza"
+      },
+      {
+         "city": "Makád"
+      },
+      {
+         "city": "Márianosztra"
+      },
+      {
+         "city": "Mende"
+      },
+      {
+         "city": "Mikebuda"
+      },
+      {
+         "city": "Mőcsény"
+      },
+      {
+         "city": "Monok"
+      },
+      {
+         "city": "Monor"
+      },
+      {
+         "city": "Nagybörzsöny"
+      },
+      {
+         "city": "Nagykáta"
+      },
+      {
+         "city": "Nagykónyi"
+      },
+      {
+         "city": "Nagykovácsi"
+      },
+      {
+         "city": "Nagymaros"
+      },
+      {
+         "city": "Nagytarcsa"
+      },
+      {
+         "city": "Nyáregyháza"
+      },
+      {
+         "city": "Nyársapát"
+      },
+      {
+         "city": "Öcs"
+      },
+      {
+         "city": "Oszkó"
+      },
+      {
+         "city": "Ózd"
+      },
+      {
+         "city": "Pánd"
+      },
+      {
+         "city": "Páty"
+      },
+      {
+         "city": "Pécel"
+      },
+      {
+         "city": "Penc"
+      },
+      {
+         "city": "Perbál"
+      },
+      {
+         "city": "Perőcsény"
+      },
+      {
+         "city": "Péteri"
+      },
+      {
+         "city": "Pilis"
+      },
+      {
+         "city": "Pilisborosjenő"
+      },
+      {
+         "city": "Piliscsaba"
+      },
+      {
+         "city": "Piliscsaba"
+      },
+      {
+         "city": "Pilisjászfalu"
+      },
+      {
+         "city": "Pilisszántó"
+      },
+      {
+         "city": "Pilisszentiván"
+      },
+      {
+         "city": "Pilisszentkereszt"
+      },
+      {
+         "city": "Pilisszentkereszt"
+      },
+      {
+         "city": "Pilisszentlászló"
+      },
+      {
+         "city": "Pilisvörösvár"
+      },
+      {
+         "city": "Pócsmegyer"
+      },
+      {
+         "city": "Pölöske"
+      },
+      {
+         "city": "Pusztaradvány"
+      },
+      {
+         "city": "Pusztaszemes"
+      },
+      {
+         "city": "Pusztavacs"
+      },
+      {
+         "city": "Putnok"
+      },
+      {
+         "city": "Ráckeve"
+      },
+      {
+         "city": "Rád"
+      },
+      {
+         "city": "Remeteszőlős"
+      },
+      {
+         "city": "Sóly"
+      },
+      {
+         "city": "Sormás"
+      },
+      {
+         "city": "Sümegcsehi"
+      },
+      {
+         "city": "Sümegprága"
+      },
+      {
+         "city": "Szada"
+      },
+      {
+         "city": "Százhalombatta"
+      },
+      {
+         "city": "Szentendre"
+      },
+      {
+         "city": "Szentlőrinckáta"
+      },
+      {
+         "city": "Szentmártonkáta"
+      },
+      {
+         "city": "Szigetbecse"
+      },
+      {
+         "city": "Szigetcsép"
+      },
+      {
+         "city": "Szigethalom"
+      },
+      {
+         "city": "Szigetmonostor"
+      },
+      {
+         "city": "Szigetszentmárton"
+      },
+      {
+         "city": "Szigetszentmiklós"
+      },
+      {
+         "city": "Szigetújfalu"
+      },
+      {
+         "city": "Szob"
+      },
+      {
+         "city": "Szőc"
+      },
+      {
+         "city": "Szőlősgyörök"
+      },
+      {
+         "city": "Szombathely"
+      },
+      {
+         "city": "Táborfalva"
+      },
+      {
+         "city": "Tahitótfalu"
+      },
+      {
+         "city": "Tahitótfalu"
+      },
+      {
+         "city": "Taksony"
+      },
+      {
+         "city": "Tápióbicske"
+      },
+      {
+         "city": "Tápiógyörgye"
+      },
+      {
+         "city": "Tápióság"
+      },
+      {
+         "city": "Tápiószecső"
+      },
+      {
+         "city": "Tápiószele"
+      },
+      {
+         "city": "Tápiószentmárton"
+      },
+      {
+         "city": "Tápiószőlős"
+      },
+      {
+         "city": "Tárnok"
+      },
+      {
+         "city": "Tatárszentgyörgy"
+      },
+      {
+         "city": "Telki"
+      },
+      {
+         "city": "Tésa"
+      },
+      {
+         "city": "Tinnye"
+      },
+      {
+         "city": "Tóalmás"
+      },
+      {
+         "city": "Torony"
+      },
+      {
+         "city": "Törtel"
+      },
+      {
+         "city": "Tótszentgyörgy"
+      },
+      {
+         "city": "Tótújfalu"
+      },
+      {
+         "city": "Tura"
+      },
+      {
+         "city": "Újhartyán"
+      },
+      {
+         "city": "Újlengyel"
+      },
+      {
+         "city": "Újszilvás"
+      },
+      {
+         "city": "Uraiújfalu"
+      },
+      {
+         "city": "Uszód"
+      },
+      {
+         "city": "Uzsa"
+      },
+      {
+         "city": "Vác"
+      },
+      {
+         "city": "Vácduka"
+      },
+      {
+         "city": "Vácegres"
+      },
+      {
+         "city": "Váchartyán"
+      },
+      {
+         "city": "Váckisújfalu"
+      },
+      {
+         "city": "Vácrátót"
+      },
+      {
+         "city": "Vácszentlászló"
+      },
+      {
+         "city": "Valkó"
+      },
+      {
+         "city": "Vámosmikola"
+      },
+      {
+         "city": "Vasad"
+      },
+      {
+         "city": "Vecsés"
+      },
+      {
+         "city": "Veresegyház"
+      },
+      {
+         "city": "Verőce"
+      },
+      {
+         "city": "Verseg"
+      },
+      {
+         "city": "Visegrád"
+      },
+      {
+         "city": "Visegrád"
+      },
+      {
+         "city": "Zebegény"
+      },
+      {
+         "city": "Zsámbék"
+      },
+      {
+         "city": "Zsámbok"
+      }
+   ],
+   "Veszprém": [
+      {
+         "city": "Ábrahámhegy"
+      },
+      {
+         "city": "Adásztevel"
+      },
+      {
+         "city": "Adorjánháza"
+      },
+      {
+         "city": "Ajka"
+      },
+      {
+         "city": "Ajka"
+      },
+      {
+         "city": "Ajka"
+      },
+      {
+         "city": "Ajka"
+      },
+      {
+         "city": "Alsóörs"
+      },
+      {
+         "city": "Apácatorna"
+      },
+      {
+         "city": "Aszófő"
+      },
+      {
+         "city": "Badacsonytomaj"
+      },
+      {
+         "city": "Badacsonytomaj"
+      },
+      {
+         "city": "Badacsonytomaj"
+      },
+      {
+         "city": "Badacsonytördemic"
+      },
+      {
+         "city": "Badacsonytördemic"
+      },
+      {
+         "city": "Bakonybél"
+      },
+      {
+         "city": "Bakonygyirót"
+      },
+      {
+         "city": "Bakonyjákó"
+      },
+      {
+         "city": "Bakonykoppány"
+      },
+      {
+         "city": "Bakonynána"
+      },
+      {
+         "city": "Bakonyoszlop"
+      },
+      {
+         "city": "Bakonypölöske"
+      },
+      {
+         "city": "Bakonyság"
+      },
+      {
+         "city": "Bakonyszentiván"
+      },
+      {
+         "city": "Bakonyszentkirály"
+      },
+      {
+         "city": "Bakonyszentlászló"
+      },
+      {
+         "city": "Bakonyszücs"
+      },
+      {
+         "city": "Bakonytamási"
+      },
+      {
+         "city": "Balatonakali"
+      },
+      {
+         "city": "Balatonalmádi"
+      },
+      {
+         "city": "Balatoncsicsó"
+      },
+      {
+         "city": "Balatonederics"
+      },
+      {
+         "city": "Balatonfőkajár"
+      },
+      {
+         "city": "Balatonfüred"
+      },
+      {
+         "city": "Balatonfüred"
+      },
+      {
+         "city": "Balatonfűzfő"
+      },
+      {
+         "city": "Balatonfűzfő"
+      },
+      {
+         "city": "Balatonhenye"
+      },
+      {
+         "city": "Balatonkenese"
+      },
+      {
+         "city": "Balatonkenese"
+      },
+      {
+         "city": "Balatonrendes"
+      },
+      {
+         "city": "Balatonszepezd"
+      },
+      {
+         "city": "Balatonszőlős"
+      },
+      {
+         "city": "Balatonudvari"
+      },
+      {
+         "city": "Balatonvilágos"
+      },
+      {
+         "city": "Bánd"
+      },
+      {
+         "city": "Barnag"
+      },
+      {
+         "city": "Bazsi"
+      },
+      {
+         "city": "Béb"
+      },
+      {
+         "city": "Békás"
+      },
+      {
+         "city": "Berhida"
+      },
+      {
+         "city": "Berhida"
+      },
+      {
+         "city": "Bodmér"
+      },
+      {
+         "city": "Borjád"
+      },
+      {
+         "city": "Borota"
+      },
+      {
+         "city": "Csabrendek"
+      },
+      {
+         "city": "Csajág"
+      },
+      {
+         "city": "Csehbánya"
+      },
+      {
+         "city": "Csesznek"
+      },
+      {
+         "city": "Csetény"
+      },
+      {
+         "city": "Csömend"
+      },
+      {
+         "city": "Csongrád"
+      },
+      {
+         "city": "Csonkahegyhát"
+      },
+      {
+         "city": "Dabronc"
+      },
+      {
+         "city": "Dabrony"
+      },
+      {
+         "city": "Dáka"
+      },
+      {
+         "city": "Devecser"
+      },
+      {
+         "city": "Doba"
+      },
+      {
+         "city": "Dör"
+      },
+      {
+         "city": "Döröske"
+      },
+      {
+         "city": "Dudar"
+      },
+      {
+         "city": "Egeralja"
+      },
+      {
+         "city": "Egyházaskesző"
+      },
+      {
+         "city": "Eplény"
+      },
+      {
+         "city": "Farkasgyepű"
+      },
+      {
+         "city": "Felsőörs"
+      },
+      {
+         "city": "Fenyőfő"
+      },
+      {
+         "city": "Ganna"
+      },
+      {
+         "city": "Gecse"
+      },
+      {
+         "city": "Gic"
+      },
+      {
+         "city": "Göd"
+      },
+      {
+         "city": "Gyepükaján"
+      },
+      {
+         "city": "Gyulaj"
+      },
+      {
+         "city": "Hajmáskér"
+      },
+      {
+         "city": "Halimba"
+      },
+      {
+         "city": "Hárskút"
+      },
+      {
+         "city": "Hegyesd"
+      },
+      {
+         "city": "Hegymagas"
+      },
+      {
+         "city": "Herend"
+      },
+      {
+         "city": "Hetyefő"
+      },
+      {
+         "city": "Hidegkút"
+      },
+      {
+         "city": "Hollókő"
+      },
+      {
+         "city": "Hosszúvölgy"
+      },
+      {
+         "city": "Iszkáz"
+      },
+      {
+         "city": "Jásd"
+      },
+      {
+         "city": "Kamond"
+      },
+      {
+         "city": "Kapolcs"
+      },
+      {
+         "city": "Káptalanfa"
+      },
+      {
+         "city": "Káptalantóti"
+      },
+      {
+         "city": "Karakószörcsök"
+      },
+      {
+         "city": "Kékkút"
+      },
+      {
+         "city": "Kemeneshőgyész"
+      },
+      {
+         "city": "Kemenesszentpéter"
+      },
+      {
+         "city": "Kerta"
+      },
+      {
+         "city": "Királyszentistván"
+      },
+      {
+         "city": "Kisapáti"
+      },
+      {
+         "city": "Kisberzseny"
+      },
+      {
+         "city": "Kiscsősz"
+      },
+      {
+         "city": "Kislőd"
+      },
+      {
+         "city": "Kispirit"
+      },
+      {
+         "city": "Kisszőlős"
+      },
+      {
+         "city": "Kóka"
+      },
+      {
+         "city": "Kövegy"
+      },
+      {
+         "city": "Kozmadombja"
+      },
+      {
+         "city": "Kunszentmárton"
+      },
+      {
+         "city": "Kutas"
+      },
+      {
+         "city": "Kutasó"
+      },
+      {
+         "city": "Lesencefalu"
+      },
+      {
+         "city": "Lesenceistvánd"
+      },
+      {
+         "city": "Lesencetomaj"
+      },
+      {
+         "city": "Litér"
+      },
+      {
+         "city": "Lőkösháza"
+      },
+      {
+         "city": "Lőrinci"
+      },
+      {
+         "city": "Lovas"
+      },
+      {
+         "city": "Magyargencs"
+      },
+      {
+         "city": "Magyarpolány"
+      },
+      {
+         "city": "Malomsok"
+      },
+      {
+         "city": "Marcalgergelyi"
+      },
+      {
+         "city": "Marcaltő"
+      },
+      {
+         "city": "Marcaltő"
+      },
+      {
+         "city": "Márkó"
+      },
+      {
+         "city": "Megyer"
+      },
+      {
+         "city": "Mencshely"
+      },
+      {
+         "city": "Mezőlak"
+      },
+      {
+         "city": "Mihályháza"
+      },
+      {
+         "city": "Mindszentkálla"
+      },
+      {
+         "city": "Mónosbél"
+      },
+      {
+         "city": "Monostorpályi"
+      },
+      {
+         "city": "Nagyacsád"
+      },
+      {
+         "city": "Nagyalásony"
+      },
+      {
+         "city": "Nagydém"
+      },
+      {
+         "city": "Nagyesztergár"
+      },
+      {
+         "city": "Nagygyimót"
+      },
+      {
+         "city": "Nagypirit"
+      },
+      {
+         "city": "Nagytevel"
+      },
+      {
+         "city": "Nagyvázsony"
+      },
+      {
+         "city": "Nemesgörzsöny"
+      },
+      {
+         "city": "Nemesgulács"
+      },
+      {
+         "city": "Nemeshany"
+      },
+      {
+         "city": "Nemesszalók"
+      },
+      {
+         "city": "Nemesvámos"
+      },
+      {
+         "city": "Nemesvita"
+      },
+      {
+         "city": "Németbánya"
+      },
+      {
+         "city": "Nóráp"
+      },
+      {
+         "city": "Noszlop"
+      },
+      {
+         "city": "Nyárád"
+      },
+      {
+         "city": "Nyirád"
+      },
+      {
+         "city": "Óbudavár"
+      },
+      {
+         "city": "Ököritófülpös"
+      },
+      {
+         "city": "Öreglak"
+      },
+      {
+         "city": "Örvényes"
+      },
+      {
+         "city": "Ózd"
+      },
+      {
+         "city": "Ózd"
+      },
+      {
+         "city": "Ózd"
+      },
+      {
+         "city": "Paloznak"
+      },
+      {
+         "city": "Pápa"
+      },
+      {
+         "city": "Pápa"
+      },
+      {
+         "city": "Pápa"
+      },
+      {
+         "city": "Pápa"
+      },
+      {
+         "city": "Pápadereske"
+      },
+      {
+         "city": "Pápakovácsi"
+      },
+      {
+         "city": "Pápasalamon"
+      },
+      {
+         "city": "Pápateszér"
+      },
+      {
+         "city": "Papkeszi"
+      },
+      {
+         "city": "Pécsely"
+      },
+      {
+         "city": "Penyige"
+      },
+      {
+         "city": "Pétfürdő"
+      },
+      {
+         "city": "Porrog"
+      },
+      {
+         "city": "Pula"
+      },
+      {
+         "city": "Pusztaföldvár"
+      },
+      {
+         "city": "Raposka"
+      },
+      {
+         "city": "Révfülöp"
+      },
+      {
+         "city": "Rigács"
+      },
+      {
+         "city": "Röjtökmuzsaj"
+      },
+      {
+         "city": "Salföld"
+      },
+      {
+         "city": "Sáska"
+      },
+      {
+         "city": "Sikátor"
+      },
+      {
+         "city": "Soltvadkert"
+      },
+      {
+         "city": "Somberek"
+      },
+      {
+         "city": "Somlójenő"
+      },
+      {
+         "city": "Somlószőlős"
+      },
+      {
+         "city": "Somlóvásárhely"
+      },
+      {
+         "city": "Sumony"
+      },
+      {
+         "city": "Surd"
+      },
+      {
+         "city": "Szápár"
+      },
+      {
+         "city": "Szentantalfa"
+      },
+      {
+         "city": "Szentbékkálla"
+      },
+      {
+         "city": "Szentgál"
+      },
+      {
+         "city": "Szentimrefalva"
+      },
+      {
+         "city": "Szentjakabfa"
+      },
+      {
+         "city": "Szentkirályszabadja"
+      },
+      {
+         "city": "Szigliget"
+      },
+      {
+         "city": "Szolnok"
+      },
+      {
+         "city": "Tagyon"
+      },
+      {
+         "city": "Takácsi"
+      },
+      {
+         "city": "Taliándörögd"
+      },
+      {
+         "city": "Tapolca"
+      },
+      {
+         "city": "Tapolca"
+      },
+      {
+         "city": "Tés"
+      },
+      {
+         "city": "Tihany"
+      },
+      {
+         "city": "Törökszentmiklós"
+      },
+      {
+         "city": "Tuzsér"
+      },
+      {
+         "city": "Ugod"
+      },
+      {
+         "city": "Ukk"
+      },
+      {
+         "city": "Úrhida"
+      },
+      {
+         "city": "Üröm"
+      },
+      {
+         "city": "Vanyola"
+      },
+      {
+         "city": "Várkesző"
+      },
+      {
+         "city": "Városlőd"
+      },
+      {
+         "city": "Várpalota"
+      },
+      {
+         "city": "Várpalota"
+      },
+      {
+         "city": "Várpalota"
+      },
+      {
+         "city": "Vászoly"
+      },
+      {
+         "city": "Vaszar"
+      },
+      {
+         "city": "Veszprém"
+      },
+      {
+         "city": "Veszprém"
+      },
+      {
+         "city": "Veszprém"
+      },
+      {
+         "city": "Veszprémfajsz"
+      },
+      {
+         "city": "Veszprémgalsa"
+      },
+      {
+         "city": "Veszprémvarsány"
+      },
+      {
+         "city": "Vid"
+      },
+      {
+         "city": "Vigántpetend"
+      },
+      {
+         "city": "Vilonya"
+      },
+      {
+         "city": "Vinár"
+      },
+      {
+         "city": "Vöröstó"
+      },
+      {
+         "city": "Zalaerdőd"
+      },
+      {
+         "city": "Zalagyömörő"
+      },
+      {
+         "city": "Zalahaláp"
+      },
+      {
+         "city": "Zalameggyes"
+      },
+      {
+         "city": "Zalaszegvár"
+      },
+      {
+         "city": "Zánka"
+      },
+      {
+         "city": "Zirc"
+      }
+   ],
+   "Komárom-Esztergom": [
+      {
+         "city": "Ács"
+      },
+      {
+         "city": "Ácsteszér"
+      },
+      {
+         "city": "Aka"
+      },
+      {
+         "city": "Almásfüzitő"
+      },
+      {
+         "city": "Annavölgy"
+      },
+      {
+         "city": "Bábolna"
+      },
+      {
+         "city": "Baj"
+      },
+      {
+         "city": "Bajna"
+      },
+      {
+         "city": "Bajót"
+      },
+      {
+         "city": "Bakonybánk"
+      },
+      {
+         "city": "Bakonysárkány"
+      },
+      {
+         "city": "Bakonyszombathely"
+      },
+      {
+         "city": "Bana"
+      },
+      {
+         "city": "Bársonyos"
+      },
+      {
+         "city": "Bögöt"
+      },
+      {
+         "city": "Császár"
+      },
+      {
+         "city": "Csatka"
+      },
+      {
+         "city": "Csém"
+      },
+      {
+         "city": "Csép"
+      },
+      {
+         "city": "Csökmő"
+      },
+      {
+         "city": "Dad"
+      },
+      {
+         "city": "Dág"
+      },
+      {
+         "city": "Dombóvár"
+      },
+      {
+         "city": "Dormánd"
+      },
+      {
+         "city": "Dunaalmás"
+      },
+      {
+         "city": "Dunaszentmiklós"
+      },
+      {
+         "city": "Epöl"
+      },
+      {
+         "city": "Esztergom"
+      },
+      {
+         "city": "Esztergom"
+      },
+      {
+         "city": "Ete"
+      },
+      {
+         "city": "Gyermely"
+      },
+      {
+         "city": "Héreg"
+      },
+      {
+         "city": "Kecskéd"
+      },
+      {
+         "city": "Kerékteleki"
+      },
+      {
+         "city": "Kesztölc"
+      },
+      {
+         "city": "Kisbér"
+      },
+      {
+         "city": "Kisbér"
+      },
+      {
+         "city": "Kisbér"
+      },
+      {
+         "city": "Kisigmánd"
+      },
+      {
+         "city": "Köblény"
+      },
+      {
+         "city": "Kökény"
+      },
+      {
+         "city": "Kőkút"
+      },
+      {
+         "city": "Kölcse"
+      },
+      {
+         "city": "Körösnagyharsány"
+      },
+      {
+         "city": "Körösújfalu"
+      },
+      {
+         "city": "Lábatlan"
+      },
+      {
+         "city": "Leányvár"
+      },
+      {
+         "city": "Máriahalom"
+      },
+      {
+         "city": "Mocsa"
+      },
+      {
+         "city": "Mogyoród"
+      },
+      {
+         "city": "Nagyigmánd"
+      },
+      {
+         "city": "Nagysáp"
+      },
+      {
+         "city": "Naszály"
+      },
+      {
+         "city": "Neszmély"
+      },
+      {
+         "city": "Nyergesújfalu"
+      },
+      {
+         "city": "Nyergesújfalu"
+      },
+      {
+         "city": "Orfalu"
+      },
+      {
+         "city": "Piliscsév"
+      },
+      {
+         "city": "Pilismarót"
+      },
+      {
+         "city": "Réde"
+      },
+      {
+         "city": "Sárisáp"
+      },
+      {
+         "city": "Sülysáp"
+      },
+      {
+         "city": "Süttő"
+      },
+      {
+         "city": "Szákszend"
+      },
+      {
+         "city": "Szárliget"
+      },
+      {
+         "city": "Szőkedencs"
+      },
+      {
+         "city": "Szólád"
+      },
+      {
+         "city": "Tardos"
+      },
+      {
+         "city": "Tarján"
+      },
+      {
+         "city": "Tárkány"
+      },
+      {
+         "city": "Tát"
+      },
+      {
+         "city": "Tata"
+      },
+      {
+         "city": "Tata"
+      },
+      {
+         "city": "Tatabánya"
+      },
+      {
+         "city": "Tokaj"
+      },
+      {
+         "city": "Tokod"
+      },
+      {
+         "city": "Üllő"
+      },
+      {
+         "city": "Várgesztes"
+      },
+      {
+         "city": "Vérteskethely"
+      },
+      {
+         "city": "Vértessomló"
+      },
+      {
+         "city": "Vértestolna"
+      },
+      {
+         "city": "Vértesszőlős"
+      }
+   ],
+   "Vas": [
+      {
+         "city": "Acsád"
+      },
+      {
+         "city": "Alsószölnök"
+      },
+      {
+         "city": "Alsóújlak"
+      },
+      {
+         "city": "Andrásfa"
+      },
+      {
+         "city": "Apátistvánfalva"
+      },
+      {
+         "city": "Bajánsenye"
+      },
+      {
+         "city": "Balogunyom"
+      },
+      {
+         "city": "Bejcgyertyános"
+      },
+      {
+         "city": "Bérbaltavár"
+      },
+      {
+         "city": "Bő"
+      },
+      {
+         "city": "Bolhás"
+      },
+      {
+         "city": "Borsodivánka"
+      },
+      {
+         "city": "Borsodnádasd"
+      },
+      {
+         "city": "Borsodszentgyörgy"
+      },
+      {
+         "city": "Borzavár"
+      },
+      {
+         "city": "Börzönce"
+      },
+      {
+         "city": "Bucsu"
+      },
+      {
+         "city": "Bük"
+      },
+      {
+         "city": "Bükkábrány"
+      },
+      {
+         "city": "Cák"
+      },
+      {
+         "city": "Celldömölk"
+      },
+      {
+         "city": "Celldömölk"
+      },
+      {
+         "city": "Chernelházadamonya"
+      },
+      {
+         "city": "Csákánydoroszló"
+      },
+      {
+         "city": "Csánig"
+      },
+      {
+         "city": "Csehi"
+      },
+      {
+         "city": "Csehimindszent"
+      },
+      {
+         "city": "Csempeszkopács"
+      },
+      {
+         "city": "Csénye"
+      },
+      {
+         "city": "Csepreg"
+      },
+      {
+         "city": "Csipkerek"
+      },
+      {
+         "city": "Csörötnek"
+      },
+      {
+         "city": "Csősz"
+      },
+      {
+         "city": "Daraboshegy"
+      },
+      {
+         "city": "Domony"
+      },
+      {
+         "city": "Dömös"
+      },
+      {
+         "city": "Dötk"
+      },
+      {
+         "city": "Duka"
+      },
+      {
+         "city": "Egervölgy"
+      },
+      {
+         "city": "Egyházashetye"
+      },
+      {
+         "city": "Egyházashollós"
+      },
+      {
+         "city": "Egyházasrádóc"
+      },
+      {
+         "city": "Felsőcsatár"
+      },
+      {
+         "city": "Felsőjánosfa"
+      },
+      {
+         "city": "Felsőmarác"
+      },
+      {
+         "city": "Felsőszölnök"
+      },
+      {
+         "city": "Gasztony"
+      },
+      {
+         "city": "Gencsapáti"
+      },
+      {
+         "city": "Gérce"
+      },
+      {
+         "city": "Gersekarát"
+      },
+      {
+         "city": "Gödre"
+      },
+      {
+         "city": "Gyanógeregye"
+      },
+      {
+         "city": "Gyöngyöshalász"
+      },
+      {
+         "city": "Győrvár"
+      },
+      {
+         "city": "Halastó"
+      },
+      {
+         "city": "Halogy"
+      },
+      {
+         "city": "Harasztifalu"
+      },
+      {
+         "city": "Hegyfalu"
+      },
+      {
+         "city": "Hegyháthodász"
+      },
+      {
+         "city": "Hegyhátsál"
+      },
+      {
+         "city": "Hegyhátszentjakab"
+      },
+      {
+         "city": "Hegyhátszentmárton"
+      },
+      {
+         "city": "Hegyhátszentpéter"
+      },
+      {
+         "city": "Horváthertelend"
+      },
+      {
+         "city": "Horvátlövő"
+      },
+      {
+         "city": "Hosszúpályi"
+      },
+      {
+         "city": "Ikervár"
+      },
+      {
+         "city": "Iklanberény"
+      },
+      {
+         "city": "Ispánk"
+      },
+      {
+         "city": "Ivánc"
+      },
+      {
+         "city": "Ják"
+      },
+      {
+         "city": "Jákfa"
+      },
+      {
+         "city": "Jánosháza"
+      },
+      {
+         "city": "Káld"
+      },
+      {
+         "city": "Kám"
+      },
+      {
+         "city": "Karakó"
+      },
+      {
+         "city": "Katafa"
+      },
+      {
+         "city": "Keléd"
+      },
+      {
+         "city": "Kemeneskápolna"
+      },
+      {
+         "city": "Kemenesmagasi"
+      },
+      {
+         "city": "Kemenesmihályfa"
+      },
+      {
+         "city": "Kemenespálfa"
+      },
+      {
+         "city": "Kemenessömjén"
+      },
+      {
+         "city": "Kemenesszentmárton"
+      },
+      {
+         "city": "Kemestaródfa"
+      },
+      {
+         "city": "Kenéz"
+      },
+      {
+         "city": "Kenyeri"
+      },
+      {
+         "city": "Kercaszomor"
+      },
+      {
+         "city": "Kerkáskápolna"
+      },
+      {
+         "city": "Kétvölgy"
+      },
+      {
+         "city": "Kisrákos"
+      },
+      {
+         "city": "Kissomlyó"
+      },
+      {
+         "city": "Kisunyom"
+      },
+      {
+         "city": "Kiszsidány"
+      },
+      {
+         "city": "Komló"
+      },
+      {
+         "city": "Körmend"
+      },
+      {
+         "city": "Köröstarcsa"
+      },
+      {
+         "city": "Kőröstetétlen"
+      },
+      {
+         "city": "Kőtelek"
+      },
+      {
+         "city": "Kovácshida"
+      },
+      {
+         "city": "Kovácsszénája"
+      },
+      {
+         "city": "Kovácsvágás"
+      },
+      {
+         "city": "Lócs"
+      },
+      {
+         "city": "Lukácsháza"
+      },
+      {
+         "city": "Magyarlak"
+      },
+      {
+         "city": "Magyarnádalja"
+      },
+      {
+         "city": "Magyarszecsőd"
+      },
+      {
+         "city": "Magyarszombatfa"
+      },
+      {
+         "city": "Meggyeskovácsi"
+      },
+      {
+         "city": "Megyehid"
+      },
+      {
+         "city": "Mersevát"
+      },
+      {
+         "city": "Mesterháza"
+      },
+      {
+         "city": "Mesteri"
+      },
+      {
+         "city": "Meszlen"
+      },
+      {
+         "city": "Mikosszéplak"
+      },
+      {
+         "city": "Molnári"
+      },
+      {
+         "city": "Nádasd"
+      },
+      {
+         "city": "Nagygeresd"
+      },
+      {
+         "city": "Nagykörű"
+      },
+      {
+         "city": "Nagymizdó"
+      },
+      {
+         "city": "Nagyrákos"
+      },
+      {
+         "city": "Nagysimonyi"
+      },
+      {
+         "city": "Nagytilaj"
+      },
+      {
+         "city": "Nárai"
+      },
+      {
+         "city": "Narda"
+      },
+      {
+         "city": "Nemesborzova"
+      },
+      {
+         "city": "Nemescsó"
+      },
+      {
+         "city": "Nemeskeresztúr"
+      },
+      {
+         "city": "Nemeskocs"
+      },
+      {
+         "city": "Nemeskolta"
+      },
+      {
+         "city": "Nemesládony"
+      },
+      {
+         "city": "Nemesmedves"
+      },
+      {
+         "city": "Nemesrempehollós"
+      },
+      {
+         "city": "Nick"
+      },
+      {
+         "city": "Nyomár"
+      },
+      {
+         "city": "Okorág"
+      },
+      {
+         "city": "Olaszliszka"
+      },
+      {
+         "city": "Ópályi"
+      },
+      {
+         "city": "Őriszentpéter"
+      },
+      {
+         "city": "Ormándlak"
+      },
+      {
+         "city": "Osli"
+      },
+      {
+         "city": "Öttömös"
+      },
+      {
+         "city": "Ötvöskónyi"
+      },
+      {
+         "city": "Pácsony"
+      },
+      {
+         "city": "Pankasz"
+      },
+      {
+         "city": "Pápoc"
+      },
+      {
+         "city": "Pecöl"
+      },
+      {
+         "city": "Perenye"
+      },
+      {
+         "city": "Peresznye"
+      },
+      {
+         "city": "Petőmihályfa"
+      },
+      {
+         "city": "Pinkamindszent"
+      },
+      {
+         "city": "Pomáz"
+      },
+      {
+         "city": "Porcsalma"
+      },
+      {
+         "city": "Porrogszentkirály"
+      },
+      {
+         "city": "Püspökmolnári"
+      },
+      {
+         "city": "Pusztazámor"
+      },
+      {
+         "city": "Rábagyarmat"
+      },
+      {
+         "city": "Rábahidvég"
+      },
+      {
+         "city": "Rábapaty"
+      },
+      {
+         "city": "Rábatöttös"
+      },
+      {
+         "city": "Rádóckölked"
+      },
+      {
+         "city": "Rátót"
+      },
+      {
+         "city": "Répcelak"
+      },
+      {
+         "city": "Répceszentgyörgy"
+      },
+      {
+         "city": "Rozsály"
+      },
+      {
+         "city": "Rum"
+      },
+      {
+         "city": "Sajtoskál"
+      },
+      {
+         "city": "Salköveskút"
+      },
+      {
+         "city": "Sárfimizdó"
+      },
+      {
+         "city": "Sárvár"
+      },
+      {
+         "city": "Sárvár"
+      },
+      {
+         "city": "Sárvár"
+      },
+      {
+         "city": "Sé"
+      },
+      {
+         "city": "Simaság"
+      },
+      {
+         "city": "Sitke"
+      },
+      {
+         "city": "Sopronnémeti"
+      },
+      {
+         "city": "Söpte"
+      },
+      {
+         "city": "Sorkifalud"
+      },
+      {
+         "city": "Sóskút"
+      },
+      {
+         "city": "Sósvertike"
+      },
+      {
+         "city": "Szaknyér"
+      },
+      {
+         "city": "Szakonyfalu"
+      },
+      {
+         "city": "Szalafő"
+      },
+      {
+         "city": "Szarvaskend"
+      },
+      {
+         "city": "Szatta"
+      },
+      {
+         "city": "Szeleste"
+      },
+      {
+         "city": "Szemenye"
+      },
+      {
+         "city": "Szentgotthárd"
+      },
+      {
+         "city": "Szentgotthárd"
+      },
+      {
+         "city": "Szentgotthárd"
+      },
+      {
+         "city": "Szentpéterfa"
+      },
+      {
+         "city": "Szergény"
+      },
+      {
+         "city": "Szögliget"
+      },
+      {
+         "city": "Szőke"
+      },
+      {
+         "city": "Szőkéd"
+      },
+      {
+         "city": "Szőlősardó"
+      },
+      {
+         "city": "Tanakajd"
+      },
+      {
+         "city": "Táplánszentkereszt"
+      },
+      {
+         "city": "Telekes"
+      },
+      {
+         "city": "Tokodaltáró"
+      },
+      {
+         "city": "Tomajmonostora"
+      },
+      {
+         "city": "Tompa"
+      },
+      {
+         "city": "Tornaszentandrás"
+      },
+      {
+         "city": "Tószeg"
+      },
+      {
+         "city": "Uppony"
+      },
+      {
+         "city": "Vámoscsalád"
+      },
+      {
+         "city": "Vasalja"
+      },
+      {
+         "city": "Vásárosmiske"
+      },
+      {
+         "city": "Vasasszonyfa"
+      },
+      {
+         "city": "Vasegerszeg"
+      },
+      {
+         "city": "Vashosszúfalu"
+      },
+      {
+         "city": "Vaskeresztes"
+      },
+      {
+         "city": "Vassurány"
+      },
+      {
+         "city": "Vasszécseny"
+      },
+      {
+         "city": "Vasszentmihály"
+      },
+      {
+         "city": "Vasszilvágy"
+      },
+      {
+         "city": "Vasvár"
+      },
+      {
+         "city": "Vát"
+      },
+      {
+         "city": "Velem"
+      },
+      {
+         "city": "Velemér"
+      },
+      {
+         "city": "Vép"
+      },
+      {
+         "city": "Viszák"
+      },
+      {
+         "city": "Vönöck"
+      },
+      {
+         "city": "Zsédeny"
+      },
+      {
+         "city": "Zsennye"
+      }
+   ],
+   "Somogy": [
+      {
+         "city": "Ádánd"
+      },
+      {
+         "city": "Alsóbogát"
+      },
+      {
+         "city": "Andocs"
+      },
+      {
+         "city": "Babócsa"
+      },
+      {
+         "city": "Bábonymegyer"
+      },
+      {
+         "city": "Bakháza"
+      },
+      {
+         "city": "Balatonberény"
+      },
+      {
+         "city": "Balatonboglár"
+      },
+      {
+         "city": "Balatonboglár"
+      },
+      {
+         "city": "Balatonendréd"
+      },
+      {
+         "city": "Balatonfenyves"
+      },
+      {
+         "city": "Balatonföldvár"
+      },
+      {
+         "city": "Balatonkeresztúr"
+      },
+      {
+         "city": "Balatonlelle"
+      },
+      {
+         "city": "Balatonmáriafürdő"
+      },
+      {
+         "city": "Balatonőszöd"
+      },
+      {
+         "city": "Balatonszabadi"
+      },
+      {
+         "city": "Balatonszárszó"
+      },
+      {
+         "city": "Balatonszemes"
+      },
+      {
+         "city": "Balatonszentgyörgy"
+      },
+      {
+         "city": "Balatonújlak"
+      },
+      {
+         "city": "Bálványos"
+      },
+      {
+         "city": "Barcs"
+      },
+      {
+         "city": "Barcs"
+      },
+      {
+         "city": "Bárdudvarnok"
+      },
+      {
+         "city": "Baté"
+      },
+      {
+         "city": "Bedegkér"
+      },
+      {
+         "city": "Bélavár"
+      },
+      {
+         "city": "Beleg"
+      },
+      {
+         "city": "Berzence"
+      },
+      {
+         "city": "Bodolyabér"
+      },
+      {
+         "city": "Bokod"
+      },
+      {
+         "city": "Bököny"
+      },
+      {
+         "city": "Boldog"
+      },
+      {
+         "city": "Bősárkány"
+      },
+      {
+         "city": "Bozzai"
+      },
+      {
+         "city": "Bük"
+      },
+      {
+         "city": "Büttös"
+      },
+      {
+         "city": "Csákány"
+      },
+      {
+         "city": "Cserénfa"
+      },
+      {
+         "city": "Csögle"
+      },
+      {
+         "city": "Csokonyavisonta"
+      },
+      {
+         "city": "Csolnok"
+      },
+      {
+         "city": "Csopak"
+      },
+      {
+         "city": "Csór"
+      },
+      {
+         "city": "Csurgó"
+      },
+      {
+         "city": "Csurgónagymarton"
+      },
+      {
+         "city": "Darány"
+      },
+      {
+         "city": "Drávagárdony"
+      },
+      {
+         "city": "Drávatamási"
+      },
+      {
+         "city": "Ecseny"
+      },
+      {
+         "city": "Edde"
+      },
+      {
+         "city": "Felsőmocsolád"
+      },
+      {
+         "city": "Fiad"
+      },
+      {
+         "city": "Földes"
+      },
+      {
+         "city": "Fonó"
+      },
+      {
+         "city": "Fony"
+      },
+      {
+         "city": "Fót"
+      },
+      {
+         "city": "Gadács"
+      },
+      {
+         "city": "Gadány"
+      },
+      {
+         "city": "Gálosfa"
+      },
+      {
+         "city": "Gamás"
+      },
+      {
+         "city": "Gige"
+      },
+      {
+         "city": "Göncruszka"
+      },
+      {
+         "city": "Gősfa"
+      },
+      {
+         "city": "Gyékényes"
+      },
+      {
+         "city": "Gyugy"
+      },
+      {
+         "city": "Hács"
+      },
+      {
+         "city": "Hajmás"
+      },
+      {
+         "city": "Háromfa"
+      },
+      {
+         "city": "Hedrehely"
+      },
+      {
+         "city": "Hencse"
+      },
+      {
+         "city": "Heresznye"
+      },
+      {
+         "city": "Hetes"
+      },
+      {
+         "city": "Hőgyész"
+      },
+      {
+         "city": "Homokmégy"
+      },
+      {
+         "city": "Hosszúpereszteg"
+      },
+      {
+         "city": "Igal"
+      },
+      {
+         "city": "Iharos"
+      },
+      {
+         "city": "Iharosberény"
+      },
+      {
+         "city": "Inke"
+      },
+      {
+         "city": "Istvándi"
+      },
+      {
+         "city": "Jákó"
+      },
+      {
+         "city": "Juta"
+      },
+      {
+         "city": "Kadarkút"
+      },
+      {
+         "city": "Kálmáncsa"
+      },
+      {
+         "city": "Kánya"
+      },
+      {
+         "city": "Kapoly"
+      },
+      {
+         "city": "Kaposfő"
+      },
+      {
+         "city": "Kaposgyarmat"
+      },
+      {
+         "city": "Kaposhomok"
+      },
+      {
+         "city": "Kaposkeresztúr"
+      },
+      {
+         "city": "Kaposmérő"
+      },
+      {
+         "city": "Kaposszerdahely"
+      },
+      {
+         "city": "Kaposújlak"
+      },
+      {
+         "city": "Kaposvár"
+      },
+      {
+         "city": "Kára"
+      },
+      {
+         "city": "Karád"
+      },
+      {
+         "city": "Kastélyosdombó"
+      },
+      {
+         "city": "Kaszó"
+      },
+      {
+         "city": "Kazsok"
+      },
+      {
+         "city": "Kelevíz"
+      },
+      {
+         "city": "Kercseliget"
+      },
+      {
+         "city": "Kereki"
+      },
+      {
+         "city": "Kéthely"
+      },
+      {
+         "city": "Kisasszond"
+      },
+      {
+         "city": "Kisbajom"
+      },
+      {
+         "city": "Kisbárapáti"
+      },
+      {
+         "city": "Kisberény"
+      },
+      {
+         "city": "Kisgyalán"
+      },
+      {
+         "city": "Kisköre"
+      },
+      {
+         "city": "Komárom"
+      },
+      {
+         "city": "Köröm"
+      },
+      {
+         "city": "Kóspallag"
+      },
+      {
+         "city": "Kővágóörs"
+      },
+      {
+         "city": "Kupa"
+      },
+      {
+         "city": "Lábod"
+      },
+      {
+         "city": "Lad"
+      },
+      {
+         "city": "Lakócsa"
+      },
+      {
+         "city": "Látrány"
+      },
+      {
+         "city": "Lengyeltóti"
+      },
+      {
+         "city": "Libickozma"
+      },
+      {
+         "city": "Lulla"
+      },
+      {
+         "city": "Magyaratád"
+      },
+      {
+         "city": "Magyaregres"
+      },
+      {
+         "city": "Marcali"
+      },
+      {
+         "city": "Marcali"
+      },
+      {
+         "city": "Marcali"
+      },
+      {
+         "city": "Mernye"
+      },
+      {
+         "city": "Mesztegnyő"
+      },
+      {
+         "city": "Mezőcsokonya"
+      },
+      {
+         "city": "Mike"
+      },
+      {
+         "city": "Miklósi"
+      },
+      {
+         "city": "Mórichida"
+      },
+      {
+         "city": "Nágocs"
+      },
+      {
+         "city": "Nagyatád"
+      },
+      {
+         "city": "Nagybajom"
+      },
+      {
+         "city": "Nagyberény"
+      },
+      {
+         "city": "Nagyberki"
+      },
+      {
+         "city": "Nagycsepely"
+      },
+      {
+         "city": "Nagykölked"
+      },
+      {
+         "city": "Nagyszakácsi"
+      },
+      {
+         "city": "Nemesdéd"
+      },
+      {
+         "city": "Nemeskisfalud"
+      },
+      {
+         "city": "Nemesvid"
+      },
+      {
+         "city": "Nikla"
+      },
+      {
+         "city": "Nyim"
+      },
+      {
+         "city": "Ömböly"
+      },
+      {
+         "city": "Onga"
+      },
+      {
+         "city": "Örménykút"
+      },
+      {
+         "city": "Osztopán"
+      },
+      {
+         "city": "Ózd"
+      },
+      {
+         "city": "Ozora"
+      },
+      {
+         "city": "Pálmajor"
+      },
+      {
+         "city": "Pamuk"
+      },
+      {
+         "city": "Patalom"
+      },
+      {
+         "city": "Patca"
+      },
+      {
+         "city": "Patosfa"
+      },
+      {
+         "city": "Péterhida"
+      },
+      {
+         "city": "Pogányszentpéter"
+      },
+      {
+         "city": "Polány"
+      },
+      {
+         "city": "Pördefölde"
+      },
+      {
+         "city": "Pornóapáti"
+      },
+      {
+         "city": "Poroszló"
+      },
+      {
+         "city": "Porrogszentpál"
+      },
+      {
+         "city": "Pusztadobos"
+      },
+      {
+         "city": "Pusztamiske"
+      },
+      {
+         "city": "Ráksi"
+      },
+      {
+         "city": "Rinyabesenyő"
+      },
+      {
+         "city": "Rinyakovácsi"
+      },
+      {
+         "city": "Rinyaszentkirály"
+      },
+      {
+         "city": "Rinyaújlak"
+      },
+      {
+         "city": "Rinyaújnép"
+      },
+      {
+         "city": "Ságvár"
+      },
+      {
+         "city": "Sántos"
+      },
+      {
+         "city": "Sávoly"
+      },
+      {
+         "city": "Segesd"
+      },
+      {
+         "city": "Sérsekszőlős"
+      },
+      {
+         "city": "Simonfa"
+      },
+      {
+         "city": "Siófok"
+      },
+      {
+         "city": "Siófok"
+      },
+      {
+         "city": "Siófok"
+      },
+      {
+         "city": "Siójut"
+      },
+      {
+         "city": "Solymár"
+      },
+      {
+         "city": "Somlóvecse"
+      },
+      {
+         "city": "Somodor"
+      },
+      {
+         "city": "Somogyapáti"
+      },
+      {
+         "city": "Somogyaracs"
+      },
+      {
+         "city": "Somogyaszaló"
+      },
+      {
+         "city": "Somogybabod"
+      },
+      {
+         "city": "Somogybükkösd"
+      },
+      {
+         "city": "Somogycsicsó"
+      },
+      {
+         "city": "Somogydöröcske"
+      },
+      {
+         "city": "Somogyegres"
+      },
+      {
+         "city": "Somogyfajsz"
+      },
+      {
+         "city": "Somogyhatvan"
+      },
+      {
+         "city": "Somogyjád"
+      },
+      {
+         "city": "Somogymeggyes"
+      },
+      {
+         "city": "Somogysámson"
+      },
+      {
+         "city": "Somogysárd"
+      },
+      {
+         "city": "Somogysimonyi"
+      },
+      {
+         "city": "Somogyszentpál"
+      },
+      {
+         "city": "Somogyszil"
+      },
+      {
+         "city": "Somogyszob"
+      },
+      {
+         "city": "Somogytúr"
+      },
+      {
+         "city": "Somogyudvarhely"
+      },
+      {
+         "city": "Somogyvámos"
+      },
+      {
+         "city": "Somogyviszló"
+      },
+      {
+         "city": "Szabadi"
+      },
+      {
+         "city": "Szabás"
+      },
+      {
+         "city": "Szántód"
+      },
+      {
+         "city": "Szegerdő"
+      },
+      {
+         "city": "Szenna"
+      },
+      {
+         "city": "Szenta"
+      },
+      {
+         "city": "Szentbalázs"
+      },
+      {
+         "city": "Szentborbás"
+      },
+      {
+         "city": "Szentgáloskér"
+      },
+      {
+         "city": "Szenyér"
+      },
+      {
+         "city": "Szilvásvárad"
+      },
+      {
+         "city": "Szőce"
+      },
+      {
+         "city": "Szolnok"
+      },
+      {
+         "city": "Szomolya"
+      },
+      {
+         "city": "Szörény"
+      },
+      {
+         "city": "Szuhogy"
+      },
+      {
+         "city": "Tab"
+      },
+      {
+         "city": "Tapsony"
+      },
+      {
+         "city": "Tarany"
+      },
+      {
+         "city": "Táska"
+      },
+      {
+         "city": "Taszár"
+      },
+      {
+         "city": "Teleki"
+      },
+      {
+         "city": "Tengőd"
+      },
+      {
+         "city": "Tikos"
+      },
+      {
+         "city": "Tornaszentjakab"
+      },
+      {
+         "city": "Törökszentmiklós"
+      },
+      {
+         "city": "Tótszentmárton"
+      },
+      {
+         "city": "Újvárfalva"
+      },
+      {
+         "city": "Varászló"
+      },
+      {
+         "city": "Várda"
+      },
+      {
+         "city": "Vése"
+      },
+      {
+         "city": "Visnye"
+      },
+      {
+         "city": "Visz"
+      },
+      {
+         "city": "Vízvár"
+      },
+      {
+         "city": "Vörs"
+      },
+      {
+         "city": "Zákány"
+      },
+      {
+         "city": "Zala"
+      },
+      {
+         "city": "Zamárdi"
+      },
+      {
+         "city": "Zics"
+      },
+      {
+         "city": "Zimány"
+      },
+      {
+         "city": "Zselickisfalud"
+      },
+      {
+         "city": "Zselickislak"
+      },
+      {
+         "city": "Zselicszentpál"
+      }
+   ],
+   "Bács-Kiskun": [
+      {
+         "city": "Ágasegyháza"
+      },
+      {
+         "city": "Akasztó"
+      },
+      {
+         "city": "Apostag"
+      },
+      {
+         "city": "Bácsalmás"
+      },
+      {
+         "city": "Bácsbokod"
+      },
+      {
+         "city": "Bácsborsód"
+      },
+      {
+         "city": "Bácsszentgyörgy"
+      },
+      {
+         "city": "Bácsszőlős"
+      },
+      {
+         "city": "Baja"
+      },
+      {
+         "city": "Baja"
+      },
+      {
+         "city": "Ballószög"
+      },
+      {
+         "city": "Balotaszállás"
+      },
+      {
+         "city": "Bátmonostor"
+      },
+      {
+         "city": "Bátya"
+      },
+      {
+         "city": "Boconád"
+      },
+      {
+         "city": "Bóly"
+      },
+      {
+         "city": "Bugac"
+      },
+      {
+         "city": "Bugacpusztaháza"
+      },
+      {
+         "city": "Császártöltés"
+      },
+      {
+         "city": "Csátalja"
+      },
+      {
+         "city": "Csávoly"
+      },
+      {
+         "city": "Csengőd"
+      },
+      {
+         "city": "Csikéria"
+      },
+      {
+         "city": "Csököly"
+      },
+      {
+         "city": "Dávod"
+      },
+      {
+         "city": "Drágszél"
+      },
+      {
+         "city": "Dunaegyháza"
+      },
+      {
+         "city": "Dunafalva"
+      },
+      {
+         "city": "Dunapataj"
+      },
+      {
+         "city": "Dunaszentbenedek"
+      },
+      {
+         "city": "Dunatetétlen"
+      },
+      {
+         "city": "Dunavecse"
+      },
+      {
+         "city": "Dusnok"
+      },
+      {
+         "city": "Érsekcsanád"
+      },
+      {
+         "city": "Érsekhalma"
+      },
+      {
+         "city": "Fajsz"
+      },
+      {
+         "city": "Felsőlajos"
+      },
+      {
+         "city": "Felsőszentiván"
+      },
+      {
+         "city": "Foktő"
+      },
+      {
+         "city": "Fülöpjakab"
+      },
+      {
+         "city": "Fülöpszállás"
+      },
+      {
+         "city": "Fülpösdaróc"
+      },
+      {
+         "city": "Gara"
+      },
+      {
+         "city": "Gátér"
+      },
+      {
+         "city": "Géderlak"
+      },
+      {
+         "city": "Hajós"
+      },
+      {
+         "city": "Harkakötöny"
+      },
+      {
+         "city": "Harta"
+      },
+      {
+         "city": "Harta"
+      },
+      {
+         "city": "Helvécia"
+      },
+      {
+         "city": "Hercegszántó"
+      },
+      {
+         "city": "Homokkomárom"
+      },
+      {
+         "city": "Imrehegy"
+      },
+      {
+         "city": "Izsák"
+      },
+      {
+         "city": "Jakabszállás"
+      },
+      {
+         "city": "Jánoshalma"
+      },
+      {
+         "city": "Jászszentlászló"
+      },
+      {
+         "city": "Kalocsa"
+      },
+      {
+         "city": "Kaskantyú"
+      },
+      {
+         "city": "Katymár"
+      },
+      {
+         "city": "Kecel"
+      },
+      {
+         "city": "Kecskemét"
+      },
+      {
+         "city": "Kecskemét"
+      },
+      {
+         "city": "Kecskemét"
+      },
+      {
+         "city": "Kelebia"
+      },
+      {
+         "city": "Kéleshalom"
+      },
+      {
+         "city": "Kerekegyháza"
+      },
+      {
+         "city": "Kiskorpád"
+      },
+      {
+         "city": "Kiskunfélegyháza"
+      },
+      {
+         "city": "Kiskunhalas"
+      },
+      {
+         "city": "Kiskunmajsa"
+      },
+      {
+         "city": "Kisszállás"
+      },
+      {
+         "city": "Körösszegapáti"
+      },
+      {
+         "city": "Kulcs"
+      },
+      {
+         "city": "Külsővat"
+      },
+      {
+         "city": "Kunadacs"
+      },
+      {
+         "city": "Kunbaja"
+      },
+      {
+         "city": "Kunfehértó"
+      },
+      {
+         "city": "Küngös"
+      },
+      {
+         "city": "Kunpeszér"
+      },
+      {
+         "city": "Ladánybene"
+      },
+      {
+         "city": "Lajosmizse"
+      },
+      {
+         "city": "Lakitelek"
+      },
+      {
+         "city": "Madaras"
+      },
+      {
+         "city": "Mátételke"
+      },
+      {
+         "city": "Mélykút"
+      },
+      {
+         "city": "Miske"
+      },
+      {
+         "city": "Mórahalom"
+      },
+      {
+         "city": "Nagybaracska"
+      },
+      {
+         "city": "Nemesnádudvar"
+      },
+      {
+         "city": "Nyárlőrinc"
+      },
+      {
+         "city": "Ónod"
+      },
+      {
+         "city": "Őr"
+      },
+      {
+         "city": "Oszlár"
+      },
+      {
+         "city": "Páhi"
+      },
+      {
+         "city": "Pálmonostora"
+      },
+      {
+         "city": "Petőfiszállás"
+      },
+      {
+         "city": "Pirtó"
+      },
+      {
+         "city": "Rém"
+      },
+      {
+         "city": "Sokorópátka"
+      },
+      {
+         "city": "Solt"
+      },
+      {
+         "city": "Soltszentimre"
+      },
+      {
+         "city": "Sümeg"
+      },
+      {
+         "city": "Szabadszállás"
+      },
+      {
+         "city": "Szakmár"
+      },
+      {
+         "city": "Szalkszentmárton"
+      },
+      {
+         "city": "Szank"
+      },
+      {
+         "city": "Szentkirály"
+      },
+      {
+         "city": "Szeremle"
+      },
+      {
+         "city": "Tabdi"
+      },
+      {
+         "city": "Tass"
+      },
+      {
+         "city": "Tataháza"
+      },
+      {
+         "city": "Tázlár"
+      },
+      {
+         "city": "Tiszaalpár"
+      },
+      {
+         "city": "Tiszaalpár"
+      },
+      {
+         "city": "Tiszakécske"
+      },
+      {
+         "city": "Tiszakécske"
+      },
+      {
+         "city": "Tiszaug"
+      },
+      {
+         "city": "Töltéstava"
+      },
+      {
+         "city": "Újsolt"
+      },
+      {
+         "city": "Újtelek"
+      },
+      {
+         "city": "Úrkút"
+      },
+      {
+         "city": "Városföld"
+      },
+      {
+         "city": "Vaskút"
+      },
+      {
+         "city": "Zsana"
+      }
+   ],
+   "Szabolcs-Szatmár-Bereg": [
+      {
+         "city": "Ajak"
+      },
+      {
+         "city": "Anarcs"
+      },
+      {
+         "city": "Apagy"
+      },
+      {
+         "city": "Aranyosapáti"
+      },
+      {
+         "city": "Baktalórántháza"
+      },
+      {
+         "city": "Balkány"
+      },
+      {
+         "city": "Balsa"
+      },
+      {
+         "city": "Barabás"
+      },
+      {
+         "city": "Bátorliget"
+      },
+      {
+         "city": "Benk"
+      },
+      {
+         "city": "Beregdaróc"
+      },
+      {
+         "city": "Beregsurány"
+      },
+      {
+         "city": "Berkesz"
+      },
+      {
+         "city": "Besenyőd"
+      },
+      {
+         "city": "Beszterec"
+      },
+      {
+         "city": "Biri"
+      },
+      {
+         "city": "Borsodbóta"
+      },
+      {
+         "city": "Bosta"
+      },
+      {
+         "city": "Buj"
+      },
+      {
+         "city": "Cégénydányád"
+      },
+      {
+         "city": "Csaholc"
+      },
+      {
+         "city": "Csaroda"
+      },
+      {
+         "city": "Császló"
+      },
+      {
+         "city": "Csegöld"
+      },
+      {
+         "city": "Csenger"
+      },
+      {
+         "city": "Csengersima"
+      },
+      {
+         "city": "Csengerújfalu"
+      },
+      {
+         "city": "Darnó"
+      },
+      {
+         "city": "Demecser"
+      },
+      {
+         "city": "Domaháza"
+      },
+      {
+         "city": "Dörgicse"
+      },
+      {
+         "city": "Encsencs"
+      },
+      {
+         "city": "Eperjeske"
+      },
+      {
+         "city": "Érpatak"
+      },
+      {
+         "city": "Fábiánháza"
+      },
+      {
+         "city": "Fehérgyarmat"
+      },
+      {
+         "city": "Fényeslitke"
+      },
+      {
+         "city": "Fülöp"
+      },
+      {
+         "city": "Fürged"
+      },
+      {
+         "city": "Gacsály"
+      },
+      {
+         "city": "Garbolc"
+      },
+      {
+         "city": "Gávavencsellő"
+      },
+      {
+         "city": "Gávavencsellő"
+      },
+      {
+         "city": "Géberjén"
+      },
+      {
+         "city": "Gégény"
+      },
+      {
+         "city": "Gelénes"
+      },
+      {
+         "city": "Gemzse"
+      },
+      {
+         "city": "Geszteréd"
+      },
+      {
+         "city": "Gulács"
+      },
+      {
+         "city": "Győröcske"
+      },
+      {
+         "city": "Győrtelek"
+      },
+      {
+         "city": "Gyula"
+      },
+      {
+         "city": "Gyüre"
+      },
+      {
+         "city": "Gyúró"
+      },
+      {
+         "city": "Hermánszeg"
+      },
+      {
+         "city": "Hetefejércse"
+      },
+      {
+         "city": "Hodász"
+      },
+      {
+         "city": "Ibrány"
+      },
+      {
+         "city": "Ilk"
+      },
+      {
+         "city": "Jánd"
+      },
+      {
+         "city": "Jánkmajtis"
+      },
+      {
+         "city": "Jármi"
+      },
+      {
+         "city": "Jéke"
+      },
+      {
+         "city": "Kállósemjén"
+      },
+      {
+         "city": "Kálmánháza"
+      },
+      {
+         "city": "Kántorjánosi"
+      },
+      {
+         "city": "Kék"
+      },
+      {
+         "city": "Kékcse"
+      },
+      {
+         "city": "Kemecse"
+      },
+      {
+         "city": "Kérsemjén"
+      },
+      {
+         "city": "Kisar"
+      },
+      {
+         "city": "Kishódos"
+      },
+      {
+         "city": "Kisléta"
+      },
+      {
+         "city": "Kisnamény"
+      },
+      {
+         "city": "Kispalád"
+      },
+      {
+         "city": "Kisszekeres"
+      },
+      {
+         "city": "Kisvárda"
+      },
+      {
+         "city": "Kisvarsány"
+      },
+      {
+         "city": "Köcsk"
+      },
+      {
+         "city": "Komádi"
+      },
+      {
+         "city": "Komárom"
+      },
+      {
+         "city": "Kondorfa"
+      },
+      {
+         "city": "Koroncó"
+      },
+      {
+         "city": "Körösszakál"
+      },
+      {
+         "city": "Laskod"
+      },
+      {
+         "city": "Levelek"
+      },
+      {
+         "city": "Lókút"
+      },
+      {
+         "city": "Lövőpetri"
+      },
+      {
+         "city": "Magosliget"
+      },
+      {
+         "city": "Magy"
+      },
+      {
+         "city": "Mánd"
+      },
+      {
+         "city": "Mándok"
+      },
+      {
+         "city": "Máriapócs"
+      },
+      {
+         "city": "Márokpapi"
+      },
+      {
+         "city": "Mátészalka"
+      },
+      {
+         "city": "Mátyus"
+      },
+      {
+         "city": "Méhtelek"
+      },
+      {
+         "city": "Mérk"
+      },
+      {
+         "city": "Mezőladány"
+      },
+      {
+         "city": "Milota"
+      },
+      {
+         "city": "Nábrád"
+      },
+      {
+         "city": "Nagyar"
+      },
+      {
+         "city": "Nagycserkesz"
+      },
+      {
+         "city": "Nagydobos"
+      },
+      {
+         "city": "Nagyecsed"
+      },
+      {
+         "city": "Nagyhalász"
+      },
+      {
+         "city": "Nagyhódos"
+      },
+      {
+         "city": "Nagykálló"
+      },
+      {
+         "city": "Nagyszekeres"
+      },
+      {
+         "city": "Nagyvarsány"
+      },
+      {
+         "city": "Napkor"
+      },
+      {
+         "city": "Nemesbőd"
+      },
+      {
+         "city": "Nyírbátor"
+      },
+      {
+         "city": "Nyírbéltek"
+      },
+      {
+         "city": "Nyírbogát"
+      },
+      {
+         "city": "Nyírbogdány"
+      },
+      {
+         "city": "Nyírcsaholy"
+      },
+      {
+         "city": "Nyírcsászári"
+      },
+      {
+         "city": "Nyírderzs"
+      },
+      {
+         "city": "Nyíregyháza"
+      },
+      {
+         "city": "Nyíregyháza"
+      },
+      {
+         "city": "Nyíregyháza"
+      },
+      {
+         "city": "Nyíregyháza"
+      },
+      {
+         "city": "Nyíregyháza"
+      },
+      {
+         "city": "Nyíregyháza"
+      },
+      {
+         "city": "Nyíregyháza"
+      },
+      {
+         "city": "Nyíregyháza"
+      },
+      {
+         "city": "Nyíregyháza"
+      },
+      {
+         "city": "Nyírgelse"
+      },
+      {
+         "city": "Nyírgyulaj"
+      },
+      {
+         "city": "Nyíribrony"
+      },
+      {
+         "city": "Nyírjákó"
+      },
+      {
+         "city": "Nyírkarász"
+      },
+      {
+         "city": "Nyírkáta"
+      },
+      {
+         "city": "Nyírkércs"
+      },
+      {
+         "city": "Nyírlövő"
+      },
+      {
+         "city": "Nyírlugos"
+      },
+      {
+         "city": "Nyírmada"
+      },
+      {
+         "city": "Nyírmeggyes"
+      },
+      {
+         "city": "Nyírmihálydi"
+      },
+      {
+         "city": "Nyírparasznya"
+      },
+      {
+         "city": "Nyírpazony"
+      },
+      {
+         "city": "Nyírpilis"
+      },
+      {
+         "city": "Nyírtass"
+      },
+      {
+         "city": "Nyírtelek"
+      },
+      {
+         "city": "Nyírtét"
+      },
+      {
+         "city": "Nyírtura"
+      },
+      {
+         "city": "Nyírvasvári"
+      },
+      {
+         "city": "Őcsény"
+      },
+      {
+         "city": "Olasz"
+      },
+      {
+         "city": "Olaszfa"
+      },
+      {
+         "city": "Old"
+      },
+      {
+         "city": "Öskü"
+      },
+      {
+         "city": "Ostffyasszonyfa"
+      },
+      {
+         "city": "Ostoros"
+      },
+      {
+         "city": "Panyola"
+      },
+      {
+         "city": "Pap"
+      },
+      {
+         "city": "Papos"
+      },
+      {
+         "city": "Paszab"
+      },
+      {
+         "city": "Pátroha"
+      },
+      {
+         "city": "Pátyod"
+      },
+      {
+         "city": "Penészlek"
+      },
+      {
+         "city": "Pénzesgyőr"
+      },
+      {
+         "city": "Petneháza"
+      },
+      {
+         "city": "Piricse"
+      },
+      {
+         "city": "Pócspetri"
+      },
+      {
+         "city": "Pölöskefő"
+      },
+      {
+         "city": "Püspökszilágy"
+      },
+      {
+         "city": "Rakamaz"
+      },
+      {
+         "city": "Ramocsaháza"
+      },
+      {
+         "city": "Rápolt"
+      },
+      {
+         "city": "Rétközberencs"
+      },
+      {
+         "city": "Rohod"
+      },
+      {
+         "city": "Rönök"
+      },
+      {
+         "city": "Sényő"
+      },
+      {
+         "city": "Somogyzsitfa"
+      },
+      {
+         "city": "Szabolcs"
+      },
+      {
+         "city": "Szabolcsbáka"
+      },
+      {
+         "city": "Szabolcsveresmart"
+      },
+      {
+         "city": "Szakoly"
+      },
+      {
+         "city": "Szamosangyalos"
+      },
+      {
+         "city": "Szamosbecs"
+      },
+      {
+         "city": "Szamoskér"
+      },
+      {
+         "city": "Szamossályi"
+      },
+      {
+         "city": "Szamosszeg"
+      },
+      {
+         "city": "Szamostatárfalva"
+      },
+      {
+         "city": "Szamosújlak"
+      },
+      {
+         "city": "Szatmárcseke"
+      },
+      {
+         "city": "Székely"
+      },
+      {
+         "city": "Tákos"
+      },
+      {
+         "city": "Tarpa"
+      },
+      {
+         "city": "Terem"
+      },
+      {
+         "city": "Tiborszállás"
+      },
+      {
+         "city": "Timár"
+      },
+      {
+         "city": "Tiszaadony"
+      },
+      {
+         "city": "Tiszabecs"
+      },
+      {
+         "city": "Tiszabercel"
+      },
+      {
+         "city": "Tiszabezdéd"
+      },
+      {
+         "city": "Tiszacsécse"
+      },
+      {
+         "city": "Tiszadada"
+      },
+      {
+         "city": "Tiszadob"
+      },
+      {
+         "city": "Tiszaeszlár"
+      },
+      {
+         "city": "Tiszaeszlár"
+      },
+      {
+         "city": "Tiszakanyár"
+      },
+      {
+         "city": "Tiszakerecseny"
+      },
+      {
+         "city": "Tiszakóród"
+      },
+      {
+         "city": "Tiszalök"
+      },
+      {
+         "city": "Tiszalök"
+      },
+      {
+         "city": "Tiszamogyorós"
+      },
+      {
+         "city": "Tiszanagyfalu"
+      },
+      {
+         "city": "Tiszarád"
+      },
+      {
+         "city": "Tiszaszalka"
+      },
+      {
+         "city": "Tiszaszentmárton"
+      },
+      {
+         "city": "Tiszatelek"
+      },
+      {
+         "city": "Tiszatelek"
+      },
+      {
+         "city": "Tiszavasvári"
+      },
+      {
+         "city": "Tiszavid"
+      },
+      {
+         "city": "Tisztaberek"
+      },
+      {
+         "city": "Tivadar"
+      },
+      {
+         "city": "Tornanádaska"
+      },
+      {
+         "city": "Tunyogmatolcs"
+      },
+      {
+         "city": "Túristvándi"
+      },
+      {
+         "city": "Túrony"
+      },
+      {
+         "city": "Túrricse"
+      },
+      {
+         "city": "Tyukod"
+      },
+      {
+         "city": "Újdombrád"
+      },
+      {
+         "city": "Újfehértó"
+      },
+      {
+         "city": "Újkenéz"
+      },
+      {
+         "city": "Úny"
+      },
+      {
+         "city": "Úri"
+      },
+      {
+         "city": "Vaja"
+      },
+      {
+         "city": "Vállaj"
+      },
+      {
+         "city": "Vámosatya"
+      },
+      {
+         "city": "Vámosoroszi"
+      },
+      {
+         "city": "Vásárosnamény"
+      },
+      {
+         "city": "Vásárosnamény"
+      },
+      {
+         "city": "Vásárosnamény"
+      },
+      {
+         "city": "Vasmegyer"
+      },
+      {
+         "city": "Záhony"
+      },
+      {
+         "city": "Zajta"
+      },
+      {
+         "city": "Zsarolyán"
+      },
+      {
+         "city": "Zsurk"
+      }
+   ],
+   "Csongrád": [
+      {
+         "city": "Algyő"
+      },
+      {
+         "city": "Ambrózfalva"
+      },
+      {
+         "city": "Apátfalva"
+      },
+      {
+         "city": "Árpádhalom"
+      },
+      {
+         "city": "Ásotthalom"
+      },
+      {
+         "city": "Baks"
+      },
+      {
+         "city": "Balástya"
+      },
+      {
+         "city": "Boldva"
+      },
+      {
+         "city": "Csanádalberti"
+      },
+      {
+         "city": "Csanádpalota"
+      },
+      {
+         "city": "Csanytelek"
+      },
+      {
+         "city": "Csengele"
+      },
+      {
+         "city": "Csólyospálos"
+      },
+      {
+         "city": "Csoma"
+      },
+      {
+         "city": "Derekegyház"
+      },
+      {
+         "city": "Deszk"
+      },
+      {
+         "city": "Döbröce"
+      },
+      {
+         "city": "Dobronhegy"
+      },
+      {
+         "city": "Eperjes"
+      },
+      {
+         "city": "Fábiánsebestyén"
+      },
+      {
+         "city": "Felgyő"
+      },
+      {
+         "city": "Ferencszállás"
+      },
+      {
+         "city": "Főnyed"
+      },
+      {
+         "city": "Forráskút"
+      },
+      {
+         "city": "Hódmezővásárhely"
+      },
+      {
+         "city": "Hódmezővásárhely"
+      },
+      {
+         "city": "Királyhegyes"
+      },
+      {
+         "city": "Kistelek"
+      },
+      {
+         "city": "Kiszombor"
+      },
+      {
+         "city": "Klárafalva"
+      },
+      {
+         "city": "Kozármisleny"
+      },
+      {
+         "city": "Kurityán"
+      },
+      {
+         "city": "Magyarcsanád"
+      },
+      {
+         "city": "Makó"
+      },
+      {
+         "city": "Makó"
+      },
+      {
+         "city": "Maroslele"
+      },
+      {
+         "city": "Mártély"
+      },
+      {
+         "city": "Mindszent"
+      },
+      {
+         "city": "Mórágy"
+      },
+      {
+         "city": "Nagyér"
+      },
+      {
+         "city": "Nagylak"
+      },
+      {
+         "city": "Nagymágocs"
+      },
+      {
+         "city": "Nagytótfalu"
+      },
+      {
+         "city": "Öcsöd"
+      },
+      {
+         "city": "Ólmod"
+      },
+      {
+         "city": "Ozmánbük"
+      },
+      {
+         "city": "Pitvaros"
+      },
+      {
+         "city": "Pusztafalu"
+      },
+      {
+         "city": "Pusztaottlaka"
+      },
+      {
+         "city": "Rózsaszentmárton"
+      },
+      {
+         "city": "Ruzsa"
+      },
+      {
+         "city": "Sándorfalva"
+      },
+      {
+         "city": "Szatymaz"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szeged"
+      },
+      {
+         "city": "Szegvár"
+      },
+      {
+         "city": "Székkutas"
+      },
+      {
+         "city": "Szentes"
+      },
+      {
+         "city": "Tiszasziget"
+      },
+      {
+         "city": "Tótkomlós"
+      },
+      {
+         "city": "Újszentiván"
+      },
+      {
+         "city": "Uszka"
+      },
+      {
+         "city": "Zákányszék"
+      },
+      {
+         "city": "Zsombó"
+      }
+   ],
+   "Zala": [
+      {
+         "city": "Alibánfa"
+      },
+      {
+         "city": "Almásháza"
+      },
+      {
+         "city": "Alsónemesapáti"
+      },
+      {
+         "city": "Alsópáhok"
+      },
+      {
+         "city": "Alsórajk"
+      },
+      {
+         "city": "Alsószenterzsébet"
+      },
+      {
+         "city": "Babosdöbréte"
+      },
+      {
+         "city": "Baglad"
+      },
+      {
+         "city": "Bagod"
+      },
+      {
+         "city": "Bak"
+      },
+      {
+         "city": "Baktüttös"
+      },
+      {
+         "city": "Balatongyörök"
+      },
+      {
+         "city": "Balatonmagyaród"
+      },
+      {
+         "city": "Bánokszentgyörgy"
+      },
+      {
+         "city": "Barlahida"
+      },
+      {
+         "city": "Batyk"
+      },
+      {
+         "city": "Bázakerettye"
+      },
+      {
+         "city": "Becsehely"
+      },
+      {
+         "city": "Becsvölgye"
+      },
+      {
+         "city": "Belezna"
+      },
+      {
+         "city": "Belsősárd"
+      },
+      {
+         "city": "Bezeréd"
+      },
+      {
+         "city": "Boba"
+      },
+      {
+         "city": "Bőcs"
+      },
+      {
+         "city": "Bogdása"
+      },
+      {
+         "city": "Bölcske"
+      },
+      {
+         "city": "Boncodfölde"
+      },
+      {
+         "city": "Borsosberény"
+      },
+      {
+         "city": "Borszörcsök"
+      },
+      {
+         "city": "Bozsok"
+      },
+      {
+         "city": "Bucsuszentlászló"
+      },
+      {
+         "city": "Bucsuta"
+      },
+      {
+         "city": "Csapi"
+      },
+      {
+         "city": "Csatár"
+      },
+      {
+         "city": "Cserszegtomaj"
+      },
+      {
+         "city": "Csertalakos"
+      },
+      {
+         "city": "Csesztreg"
+      },
+      {
+         "city": "Csomád"
+      },
+      {
+         "city": "Csongrád"
+      },
+      {
+         "city": "Csorna"
+      },
+      {
+         "city": "Csorvás"
+      },
+      {
+         "city": "Dióskál"
+      },
+      {
+         "city": "Doboz"
+      },
+      {
+         "city": "Dobri"
+      },
+      {
+         "city": "Domoszló"
+      },
+      {
+         "city": "Dövény"
+      },
+      {
+         "city": "Egeraracsa"
+      },
+      {
+         "city": "Egervár"
+      },
+      {
+         "city": "Eszteregnye"
+      },
+      {
+         "city": "Esztergályhorváti"
+      },
+      {
+         "city": "Felsőpáhok"
+      },
+      {
+         "city": "Felsőrajk"
+      },
+      {
+         "city": "Felsőszenterzsébet"
+      },
+      {
+         "city": "Fityeház"
+      },
+      {
+         "city": "Füzvölgy"
+      },
+      {
+         "city": "Gáborjánháza"
+      },
+      {
+         "city": "Galambok"
+      },
+      {
+         "city": "Garabonc"
+      },
+      {
+         "city": "Gellénháza"
+      },
+      {
+         "city": "Gelse"
+      },
+      {
+         "city": "Gelsesziget"
+      },
+      {
+         "city": "Gétye"
+      },
+      {
+         "city": "Gödre"
+      },
+      {
+         "city": "Gölle"
+      },
+      {
+         "city": "Gosztola"
+      },
+      {
+         "city": "Gutorfölde"
+      },
+      {
+         "city": "Gyenesdiás"
+      },
+      {
+         "city": "Gyűrűs"
+      },
+      {
+         "city": "Hagyárosbörönd"
+      },
+      {
+         "city": "Hahót"
+      },
+      {
+         "city": "Hernyék"
+      },
+      {
+         "city": "Hévíz"
+      },
+      {
+         "city": "Homokbödöge"
+      },
+      {
+         "city": "Hosszúvíz"
+      },
+      {
+         "city": "Hosztót"
+      },
+      {
+         "city": "Iborfia"
+      },
+      {
+         "city": "Iklódbördőce"
+      },
+      {
+         "city": "Kacorlak"
+      },
+      {
+         "city": "Kallósd"
+      },
+      {
+         "city": "Kálócfa"
+      },
+      {
+         "city": "Kányavár"
+      },
+      {
+         "city": "Karmacs"
+      },
+      {
+         "city": "Kávás"
+      },
+      {
+         "city": "Kehidakustány"
+      },
+      {
+         "city": "Kemendollár"
+      },
+      {
+         "city": "Keménfa"
+      },
+      {
+         "city": "Kerecseny"
+      },
+      {
+         "city": "Kerkabarabás"
+      },
+      {
+         "city": "Kerkafalva"
+      },
+      {
+         "city": "Kerkakutas"
+      },
+      {
+         "city": "Kerkaszentkirály"
+      },
+      {
+         "city": "Kerkateskánd"
+      },
+      {
+         "city": "Keszthely"
+      },
+      {
+         "city": "Kilimán"
+      },
+      {
+         "city": "Kisbucsa"
+      },
+      {
+         "city": "Kiscsehi"
+      },
+      {
+         "city": "Kisgörbő"
+      },
+      {
+         "city": "Kiskutas"
+      },
+      {
+         "city": "Kispáli"
+      },
+      {
+         "city": "Kisrécse"
+      },
+      {
+         "city": "Kissziget"
+      },
+      {
+         "city": "Kistolmács"
+      },
+      {
+         "city": "Kisvásárhely"
+      },
+      {
+         "city": "Korlát"
+      },
+      {
+         "city": "Kup"
+      },
+      {
+         "city": "Kustánszeg"
+      },
+      {
+         "city": "Lakhegy"
+      },
+      {
+         "city": "Lasztonya"
+      },
+      {
+         "city": "Lendvadedes"
+      },
+      {
+         "city": "Lendvajakabfa"
+      },
+      {
+         "city": "Lenti"
+      },
+      {
+         "city": "Lenti"
+      },
+      {
+         "city": "Letenye"
+      },
+      {
+         "city": "Lickóvadamos"
+      },
+      {
+         "city": "Ligetfalva"
+      },
+      {
+         "city": "Lispeszentadorján"
+      },
+      {
+         "city": "Liszó"
+      },
+      {
+         "city": "Lothárd"
+      },
+      {
+         "city": "Magyarföld"
+      },
+      {
+         "city": "Magyarszentmiklós"
+      },
+      {
+         "city": "Magyarszerdahely"
+      },
+      {
+         "city": "Maróc"
+      },
+      {
+         "city": "Márokföld"
+      },
+      {
+         "city": "Miháld"
+      },
+      {
+         "city": "Mihályfa"
+      },
+      {
+         "city": "Mikekarácsonyfa"
+      },
+      {
+         "city": "Milejszeg"
+      },
+      {
+         "city": "Misefa"
+      },
+      {
+         "city": "Mohora"
+      },
+      {
+         "city": "Murakeresztúr"
+      },
+      {
+         "city": "Murarátka"
+      },
+      {
+         "city": "Muraszemenye"
+      },
+      {
+         "city": "Nagybakónak"
+      },
+      {
+         "city": "Nagygörbő"
+      },
+      {
+         "city": "Nagykanizsa"
+      },
+      {
+         "city": "Nagykanizsa"
+      },
+      {
+         "city": "Nagykanizsa"
+      },
+      {
+         "city": "Nagykanizsa"
+      },
+      {
+         "city": "Nagykapornak"
+      },
+      {
+         "city": "Nagykutas"
+      },
+      {
+         "city": "Nagylengyel"
+      },
+      {
+         "city": "Nagypáli"
+      },
+      {
+         "city": "Nagyrada"
+      },
+      {
+         "city": "Nagyrécse"
+      },
+      {
+         "city": "Nemesapáti"
+      },
+      {
+         "city": "Nemesbük"
+      },
+      {
+         "city": "Nemeshetés"
+      },
+      {
+         "city": "Nemesnép"
+      },
+      {
+         "city": "Nemespátró"
+      },
+      {
+         "city": "Nemesrádó"
+      },
+      {
+         "city": "Nemessándorháza"
+      },
+      {
+         "city": "Nemesszentandrás"
+      },
+      {
+         "city": "Németfalu"
+      },
+      {
+         "city": "Nőtincs"
+      },
+      {
+         "city": "Ófalu"
+      },
+      {
+         "city": "Ölbő"
+      },
+      {
+         "city": "Oltárc"
+      },
+      {
+         "city": "Orbányosfa"
+      },
+      {
+         "city": "Orgovány"
+      },
+      {
+         "city": "Őrhalom"
+      },
+      {
+         "city": "Ortaháza"
+      },
+      {
+         "city": "Pacsa"
+      },
+      {
+         "city": "Padár"
+      },
+      {
+         "city": "Páka"
+      },
+      {
+         "city": "Pakod"
+      },
+      {
+         "city": "Pálfiszeg"
+      },
+      {
+         "city": "Pat"
+      },
+      {
+         "city": "Pethőhenye"
+      },
+      {
+         "city": "Petrikeresztúr"
+      },
+      {
+         "city": "Petrivente"
+      },
+      {
+         "city": "Pókaszepetk"
+      },
+      {
+         "city": "Porpác"
+      },
+      {
+         "city": "Porva"
+      },
+      {
+         "city": "Pósfa"
+      },
+      {
+         "city": "Pötréte"
+      },
+      {
+         "city": "Potyond"
+      },
+      {
+         "city": "Püski"
+      },
+      {
+         "city": "Pusztaapáti"
+      },
+      {
+         "city": "Pusztaederics"
+      },
+      {
+         "city": "Pusztamonostor"
+      },
+      {
+         "city": "Ramocsa"
+      },
+      {
+         "city": "Rédics"
+      },
+      {
+         "city": "Resznek"
+      },
+      {
+         "city": "Rezi"
+      },
+      {
+         "city": "Rigyác"
+      },
+      {
+         "city": "Salomvár"
+      },
+      {
+         "city": "Sand"
+      },
+      {
+         "city": "Sárhida"
+      },
+      {
+         "city": "Sármellék"
+      },
+      {
+         "city": "Semjénháza"
+      },
+      {
+         "city": "Sénye"
+      },
+      {
+         "city": "Söréd"
+      },
+      {
+         "city": "Sóstófalva"
+      },
+      {
+         "city": "Sülysáp"
+      },
+      {
+         "city": "Súr"
+      },
+      {
+         "city": "Szalapa"
+      },
+      {
+         "city": "Szécsisziget"
+      },
+      {
+         "city": "Szentgyörgyvár"
+      },
+      {
+         "city": "Szentgyörgyvölgy"
+      },
+      {
+         "city": "Szentkozmadombja"
+      },
+      {
+         "city": "Szentliszló"
+      },
+      {
+         "city": "Szentmargitfalva"
+      },
+      {
+         "city": "Szentpéterfölde"
+      },
+      {
+         "city": "Szentpéterúr"
+      },
+      {
+         "city": "Szepetnek"
+      },
+      {
+         "city": "Szijártóháza"
+      },
+      {
+         "city": "Szilvágy"
+      },
+      {
+         "city": "Teskánd"
+      },
+      {
+         "city": "Tilaj"
+      },
+      {
+         "city": "Tófej"
+      },
+      {
+         "city": "Tömörd"
+      },
+      {
+         "city": "Tornabarakony"
+      },
+      {
+         "city": "Törökbálint"
+      },
+      {
+         "city": "Törökkoppány"
+      },
+      {
+         "city": "Tüskevár"
+      },
+      {
+         "city": "Újudvar"
+      },
+      {
+         "city": "Valkonya"
+      },
+      {
+         "city": "Vállus"
+      },
+      {
+         "city": "Várfölde"
+      },
+      {
+         "city": "Várvölgy"
+      },
+      {
+         "city": "Vasboldogasszony"
+      },
+      {
+         "city": "Vaspör"
+      },
+      {
+         "city": "Vindornyafok"
+      },
+      {
+         "city": "Vindornyalak"
+      },
+      {
+         "city": "Vindornyaszőlős"
+      },
+      {
+         "city": "Vonyarcvashegy"
+      },
+      {
+         "city": "Vöckönd"
+      },
+      {
+         "city": "Zajk"
+      },
+      {
+         "city": "Zalaapáti"
+      },
+      {
+         "city": "Zalabaksa"
+      },
+      {
+         "city": "Zalabér"
+      },
+      {
+         "city": "Zalaboldogfa"
+      },
+      {
+         "city": "Zalacsány"
+      },
+      {
+         "city": "Zalacséb"
+      },
+      {
+         "city": "Zalaegerszeg"
+      },
+      {
+         "city": "Zalaháshágy"
+      },
+      {
+         "city": "Zalaigrice"
+      },
+      {
+         "city": "Zalaistvánd"
+      },
+      {
+         "city": "Zalakaros"
+      },
+      {
+         "city": "Zalakomár"
+      },
+      {
+         "city": "Zalakomár"
+      },
+      {
+         "city": "Zalaköveskút"
+      },
+      {
+         "city": "Zalalövő"
+      },
+      {
+         "city": "Zalamerenye"
+      },
+      {
+         "city": "Zalasárszeg"
+      },
+      {
+         "city": "Zalaszabar"
+      },
+      {
+         "city": "Zalaszántó"
+      },
+      {
+         "city": "Zalaszentbalázs"
+      },
+      {
+         "city": "Zalaszentgrót"
+      },
+      {
+         "city": "Zalaszentgrót"
+      },
+      {
+         "city": "Zalaszentgrót"
+      },
+      {
+         "city": "Zalaszentgrót"
+      },
+      {
+         "city": "Zalaszentgrót"
+      },
+      {
+         "city": "Zalaszentgyörgy"
+      },
+      {
+         "city": "Zalaszentiván"
+      },
+      {
+         "city": "Zalaszentjakab"
+      },
+      {
+         "city": "Zalaszentlászló"
+      },
+      {
+         "city": "Zalaszentlőrinc"
+      },
+      {
+         "city": "Zalaszentmárton"
+      },
+      {
+         "city": "Zalaszentmihály"
+      },
+      {
+         "city": "Zalaszombatfa"
+      },
+      {
+         "city": "Zalatárnok"
+      },
+      {
+         "city": "Zalaújlak"
+      },
+      {
+         "city": "Zalavár"
+      },
+      {
+         "city": "Zalavég"
+      },
+      {
+         "city": "Zebecke"
+      }
+   ],
+   "Békés": [
+      {
+         "city": "Almáskamarás"
+      },
+      {
+         "city": "Battonya"
+      },
+      {
+         "city": "Békés"
+      },
+      {
+         "city": "Békéscsaba"
+      },
+      {
+         "city": "Békéscsaba"
+      },
+      {
+         "city": "Békéscsaba"
+      },
+      {
+         "city": "Békéssámson"
+      },
+      {
+         "city": "Békésszentandrás"
+      },
+      {
+         "city": "Bélmegyer"
+      },
+      {
+         "city": "Biharugra"
+      },
+      {
+         "city": "Bucsa"
+      },
+      {
+         "city": "Csabacsűd"
+      },
+      {
+         "city": "Csabaszabadi"
+      },
+      {
+         "city": "Csanádapáca"
+      },
+      {
+         "city": "Csárdaszállás"
+      },
+      {
+         "city": "Csönge"
+      },
+      {
+         "city": "Dévaványa"
+      },
+      {
+         "city": "Döbörhegy"
+      },
+      {
+         "city": "Döbrönte"
+      },
+      {
+         "city": "Dóc"
+      },
+      {
+         "city": "Ecsegfalva"
+      },
+      {
+         "city": "Elek"
+      },
+      {
+         "city": "Füzesgyarmat"
+      },
+      {
+         "city": "Gádoros"
+      },
+      {
+         "city": "Gerendás"
+      },
+      {
+         "city": "Geszt"
+      },
+      {
+         "city": "Gyomaendrőd"
+      },
+      {
+         "city": "Gyomaendrőd"
+      },
+      {
+         "city": "Gyügye"
+      },
+      {
+         "city": "Gyula"
+      },
+      {
+         "city": "Gyula"
+      },
+      {
+         "city": "Hunya"
+      },
+      {
+         "city": "Kamut"
+      },
+      {
+         "city": "Kardos"
+      },
+      {
+         "city": "Kardoskút"
+      },
+      {
+         "city": "Kaszaper"
+      },
+      {
+         "city": "Kertészsziget"
+      },
+      {
+         "city": "Kétegyháza"
+      },
+      {
+         "city": "Kétsoprony"
+      },
+      {
+         "city": "Kevermes"
+      },
+      {
+         "city": "Kisdombegyház"
+      },
+      {
+         "city": "Kömlő"
+      },
+      {
+         "city": "Kőszárhegy"
+      },
+      {
+         "city": "Kőszeg"
+      },
+      {
+         "city": "Kőszegdoroszló"
+      },
+      {
+         "city": "Kőszegszerdahely"
+      },
+      {
+         "city": "Kővágószőlős"
+      },
+      {
+         "city": "Külsősárd"
+      },
+      {
+         "city": "Lovasberény"
+      },
+      {
+         "city": "Magyarbánhegyes"
+      },
+      {
+         "city": "Magyardombegyház"
+      },
+      {
+         "city": "Medgyesbodzás"
+      },
+      {
+         "city": "Medgyesbodzás"
+      },
+      {
+         "city": "Medgyesegyháza"
+      },
+      {
+         "city": "Medgyesegyháza"
+      },
+      {
+         "city": "Méhkerék"
+      },
+      {
+         "city": "Mezőberény"
+      },
+      {
+         "city": "Mezőgyán"
+      },
+      {
+         "city": "Mezőhegyes"
+      },
+      {
+         "city": "Mezőkovácsháza"
+      },
+      {
+         "city": "Murony"
+      },
+      {
+         "city": "Nagybánhegyes"
+      },
+      {
+         "city": "Nagykamarás"
+      },
+      {
+         "city": "Nagyszénás"
+      },
+      {
+         "city": "Ófehértó"
+      },
+      {
+         "city": "Orci"
+      },
+      {
+         "city": "Ordacsehi"
+      },
+      {
+         "city": "Ordas"
+      },
+      {
+         "city": "Öregcsertő"
+      },
+      {
+         "city": "Ózd"
+      },
+      {
+         "city": "Pusztacsalád"
+      },
+      {
+         "city": "Pusztakovácsi"
+      },
+      {
+         "city": "Sarkad"
+      },
+      {
+         "city": "Sarkadkeresztúr"
+      },
+      {
+         "city": "Szabadkígyós"
+      },
+      {
+         "city": "Szarvas"
+      },
+      {
+         "city": "Szeghalom"
+      },
+      {
+         "city": "Tarhos"
+      },
+      {
+         "city": "Telekgerendás"
+      },
+      {
+         "city": "Tornyosnémeti"
+      },
+      {
+         "city": "Újkígyós"
+      },
+      {
+         "city": "Újszalonta"
+      },
+      {
+         "city": "Végegyháza"
+      },
+      {
+         "city": "Vésztő"
+      },
+      {
+         "city": "Zsadány"
+      }
+   ],
+   "Hajdú-Bihar": [
+      {
+         "city": "Álmosd"
+      },
+      {
+         "city": "Ártánd"
+      },
+      {
+         "city": "Bagamér"
+      },
+      {
+         "city": "Bakonszeg"
+      },
+      {
+         "city": "Balmazújváros"
+      },
+      {
+         "city": "Báránd"
+      },
+      {
+         "city": "Bedő"
+      },
+      {
+         "city": "Berekböszörmény"
+      },
+      {
+         "city": "Berettyóújfalu"
+      },
+      {
+         "city": "Berettyóújfalu"
+      },
+      {
+         "city": "Bihardancsháza"
+      },
+      {
+         "city": "Biharkeresztes"
+      },
+      {
+         "city": "Biharnagybajom"
+      },
+      {
+         "city": "Bihartorda"
+      },
+      {
+         "city": "Bócsa"
+      },
+      {
+         "city": "Bogádmindszent"
+      },
+      {
+         "city": "Csonkamindszent"
+      },
+      {
+         "city": "Darvas"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Debrecen"
+      },
+      {
+         "city": "Derecske"
+      },
+      {
+         "city": "Ebes"
+      },
+      {
+         "city": "Egyek"
+      },
+      {
+         "city": "Egyek"
+      },
+      {
+         "city": "Esztár"
+      },
+      {
+         "city": "Földeák"
+      },
+      {
+         "city": "Forró"
+      },
+      {
+         "city": "Fülesd"
+      },
+      {
+         "city": "Fülöpháza"
+      },
+      {
+         "city": "Gáborján"
+      },
+      {
+         "city": "Görcsönydoboka"
+      },
+      {
+         "city": "Hajdúbagos"
+      },
+      {
+         "city": "Hajdúböszörmény"
+      },
+      {
+         "city": "Hajdúböszörmény"
+      },
+      {
+         "city": "Hajdúböszörmény"
+      },
+      {
+         "city": "Hajdúböszörmény"
+      },
+      {
+         "city": "Hajdúdorog"
+      },
+      {
+         "city": "Hajdúhadház"
+      },
+      {
+         "city": "Hajdúnánás"
+      },
+      {
+         "city": "Hajdúnánás"
+      },
+      {
+         "city": "Hajdúsámson"
+      },
+      {
+         "city": "Hajdúszoboszló"
+      },
+      {
+         "city": "Hajdúszovát"
+      },
+      {
+         "city": "Hencida"
+      },
+      {
+         "city": "Hort"
+      },
+      {
+         "city": "Hosszúhetény"
+      },
+      {
+         "city": "Kaba"
+      },
+      {
+         "city": "Kismarja"
+      },
+      {
+         "city": "Kocsord"
+      },
+      {
+         "city": "Kokad"
+      },
+      {
+         "city": "Komlódtótfalu"
+      },
+      {
+         "city": "Kótaj"
+      },
+      {
+         "city": "Kötcse"
+      },
+      {
+         "city": "Létavértes"
+      },
+      {
+         "city": "Létavértes"
+      },
+      {
+         "city": "Magyarhomorog"
+      },
+      {
+         "city": "Mezőpeterd"
+      },
+      {
+         "city": "Mezősas"
+      },
+      {
+         "city": "Mikepércs"
+      },
+      {
+         "city": "Monostorapáti"
+      },
+      {
+         "city": "Nádudvar"
+      },
+      {
+         "city": "Nagyhegyes"
+      },
+      {
+         "city": "Nagykereki"
+      },
+      {
+         "city": "Nagyrábé"
+      },
+      {
+         "city": "Nyírábrány"
+      },
+      {
+         "city": "Nyíracsád"
+      },
+      {
+         "city": "Nyíradony"
+      },
+      {
+         "city": "Nyíradony"
+      },
+      {
+         "city": "Nyíradony"
+      },
+      {
+         "city": "Nyírmártonfalva"
+      },
+      {
+         "city": "Pocsaj"
+      },
+      {
+         "city": "Polgár"
+      },
+      {
+         "city": "Pusztavám"
+      },
+      {
+         "city": "Sáp"
+      },
+      {
+         "city": "Sáránd"
+      },
+      {
+         "city": "Sárrétudvari"
+      },
+      {
+         "city": "Szentpéterszeg"
+      },
+      {
+         "city": "Szerep"
+      },
+      {
+         "city": "Szerep"
+      },
+      {
+         "city": "Téglás"
+      },
+      {
+         "city": "Tépe"
+      },
+      {
+         "city": "Tetétlen"
+      },
+      {
+         "city": "Tiszacsege"
+      },
+      {
+         "city": "Tiszagyulaháza"
+      },
+      {
+         "city": "Tokorcs"
+      },
+      {
+         "city": "Újiráz"
+      },
+      {
+         "city": "Újléta"
+      },
+      {
+         "city": "Újszentmargita"
+      },
+      {
+         "city": "Újtikos"
+      },
+      {
+         "city": "Vámospércs"
+      },
+      {
+         "city": "Váncsod"
+      },
+      {
+         "city": "Vekerd"
+      },
+      {
+         "city": "Zsáka"
+      }
+   ],
+   "Tolna": [
+      {
+         "city": "Alsónána"
+      },
+      {
+         "city": "Alsónyék"
+      },
+      {
+         "city": "Aparhant"
+      },
+      {
+         "city": "Attala"
+      },
+      {
+         "city": "Báta"
+      },
+      {
+         "city": "Bátaapáti"
+      },
+      {
+         "city": "Bátaszék"
+      },
+      {
+         "city": "Belecska"
+      },
+      {
+         "city": "Bikács"
+      },
+      {
+         "city": "Bogács"
+      },
+      {
+         "city": "Boldogasszonyfa"
+      },
+      {
+         "city": "Boldogkőújfalu"
+      },
+      {
+         "city": "Boldogkőváralja"
+      },
+      {
+         "city": "Bőszénfa"
+      },
+      {
+         "city": "Cikó"
+      },
+      {
+         "city": "Csibrák"
+      },
+      {
+         "city": "Csikóstőttős"
+      },
+      {
+         "city": "Dalmand"
+      },
+      {
+         "city": "Decs"
+      },
+      {
+         "city": "Diósberény"
+      },
+      {
+         "city": "Döge"
+      },
+      {
+         "city": "Dömsöd"
+      },
+      {
+         "city": "Dunaföldvár"
+      },
+      {
+         "city": "Dunaszentgyörgy"
+      },
+      {
+         "city": "Dúzs"
+      },
+      {
+         "city": "Értény"
+      },
+      {
+         "city": "Fácánkert"
+      },
+      {
+         "city": "Fadd"
+      },
+      {
+         "city": "Fadd"
+      },
+      {
+         "city": "Felsőnána"
+      },
+      {
+         "city": "Felsőnyék"
+      },
+      {
+         "city": "Furta"
+      },
+      {
+         "city": "Gerjen"
+      },
+      {
+         "city": "Grábóc"
+      },
+      {
+         "city": "Győr"
+      },
+      {
+         "city": "Györgytarló"
+      },
+      {
+         "city": "Győrladamér"
+      },
+      {
+         "city": "Gyulaháza"
+      },
+      {
+         "city": "Harc"
+      },
+      {
+         "city": "Hottó"
+      },
+      {
+         "city": "Iregszemcse"
+      },
+      {
+         "city": "Izmény"
+      },
+      {
+         "city": "Jágónak"
+      },
+      {
+         "city": "Kajdacs"
+      },
+      {
+         "city": "Kakasd"
+      },
+      {
+         "city": "Kalaznó"
+      },
+      {
+         "city": "Kapospula"
+      },
+      {
+         "city": "Kaposszekcső"
+      },
+      {
+         "city": "Keszőhidegkút"
+      },
+      {
+         "city": "Kéty"
+      },
+      {
+         "city": "Kisdorog"
+      },
+      {
+         "city": "Kismányok"
+      },
+      {
+         "city": "Kisszékely"
+      },
+      {
+         "city": "Kistormás"
+      },
+      {
+         "city": "Kisvejke"
+      },
+      {
+         "city": "Kocsér"
+      },
+      {
+         "city": "Komlóska"
+      },
+      {
+         "city": "Kórós"
+      },
+      {
+         "city": "Kunszentmiklós"
+      },
+      {
+         "city": "Lápafő"
+      },
+      {
+         "city": "Lengyel"
+      },
+      {
+         "city": "Madocsa"
+      },
+      {
+         "city": "Magyarkeszi"
+      },
+      {
+         "city": "Medina"
+      },
+      {
+         "city": "Miszla"
+      },
+      {
+         "city": "Mór"
+      },
+      {
+         "city": "Mozsgó"
+      },
+      {
+         "city": "Mucsfa"
+      },
+      {
+         "city": "Mucsi"
+      },
+      {
+         "city": "Murga"
+      },
+      {
+         "city": "Nagydorog"
+      },
+      {
+         "city": "Nagykökényes"
+      },
+      {
+         "city": "Nagymányok"
+      },
+      {
+         "city": "Nagyszékely"
+      },
+      {
+         "city": "Nagyszokoly"
+      },
+      {
+         "city": "Nagyvejke"
+      },
+      {
+         "city": "Nak"
+      },
+      {
+         "city": "Németkér"
+      },
+      {
+         "city": "Őrtilos"
+      },
+      {
+         "city": "Ősagárd"
+      },
+      {
+         "city": "Paks"
+      },
+      {
+         "city": "Paks"
+      },
+      {
+         "city": "Pálfa"
+      },
+      {
+         "city": "Pincehely"
+      },
+      {
+         "city": "Potony"
+      },
+      {
+         "city": "Pusztacsó"
+      },
+      {
+         "city": "Regöly"
+      },
+      {
+         "city": "Sárpilis"
+      },
+      {
+         "city": "Sárszentlőrinc"
+      },
+      {
+         "city": "Simontornya"
+      },
+      {
+         "city": "Sióagárd"
+      },
+      {
+         "city": "Szakadát"
+      },
+      {
+         "city": "Szakály"
+      },
+      {
+         "city": "Szakcs"
+      },
+      {
+         "city": "Szálka"
+      },
+      {
+         "city": "Szárazd"
+      },
+      {
+         "city": "Szedres"
+      },
+      {
+         "city": "Szekszárd"
+      },
+      {
+         "city": "Tamási"
+      },
+      {
+         "city": "Tamási"
+      },
+      {
+         "city": "Tengelic"
+      },
+      {
+         "city": "Tevel"
+      },
+      {
+         "city": "Told"
+      },
+      {
+         "city": "Tolmács"
+      },
+      {
+         "city": "Tolna"
+      },
+      {
+         "city": "Udvari"
+      },
+      {
+         "city": "Újireg"
+      },
+      {
+         "city": "Váralja"
+      },
+      {
+         "city": "Várdomb"
+      },
+      {
+         "city": "Várong"
+      },
+      {
+         "city": "Varsád"
+      },
+      {
+         "city": "Závod"
+      },
+      {
+         "city": "Zomba"
+      }
+   ],
+   "Nógrád": [
+      {
+         "city": "Alsópetény"
+      },
+      {
+         "city": "Alsótold"
+      },
+      {
+         "city": "Balassagyarmat"
+      },
+      {
+         "city": "Bánk"
+      },
+      {
+         "city": "Bárna"
+      },
+      {
+         "city": "Bátonyterenye"
+      },
+      {
+         "city": "Bátonyterenye"
+      },
+      {
+         "city": "Bátonyterenye"
+      },
+      {
+         "city": "Becske"
+      },
+      {
+         "city": "Bér"
+      },
+      {
+         "city": "Bercel"
+      },
+      {
+         "city": "Berkenye"
+      },
+      {
+         "city": "Bögöte"
+      },
+      {
+         "city": "Borgáta"
+      },
+      {
+         "city": "Buják"
+      },
+      {
+         "city": "Cered"
+      },
+      {
+         "city": "Csécse"
+      },
+      {
+         "city": "Cserháthaláp"
+      },
+      {
+         "city": "Cserhátsurány"
+      },
+      {
+         "city": "Cserhátszentiván"
+      },
+      {
+         "city": "Csesztve"
+      },
+      {
+         "city": "Csitár"
+      },
+      {
+         "city": "Debercsény"
+      },
+      {
+         "city": "Dejtár"
+      },
+      {
+         "city": "Diósjenő"
+      },
+      {
+         "city": "Dombrád"
+      },
+      {
+         "city": "Drégelypalánk"
+      },
+      {
+         "city": "Ecseg"
+      },
+      {
+         "city": "Egyházasdengeleg"
+      },
+      {
+         "city": "Egyházasgerge"
+      },
+      {
+         "city": "Endrefalva"
+      },
+      {
+         "city": "Erdőkürt"
+      },
+      {
+         "city": "Erdőtarcsa"
+      },
+      {
+         "city": "Érsekvadkert"
+      },
+      {
+         "city": "Etes"
+      },
+      {
+         "city": "Felsőpetény"
+      },
+      {
+         "city": "Felsőtold"
+      },
+      {
+         "city": "Galgaguta"
+      },
+      {
+         "city": "Garáb"
+      },
+      {
+         "city": "Héhalom"
+      },
+      {
+         "city": "Herencsény"
+      },
+      {
+         "city": "Hollóháza"
+      },
+      {
+         "city": "Homrogd"
+      },
+      {
+         "city": "Hont"
+      },
+      {
+         "city": "Hugyag"
+      },
+      {
+         "city": "Iliny"
+      },
+      {
+         "city": "Ipolytarnóc"
+      },
+      {
+         "city": "Ipolyvece"
+      },
+      {
+         "city": "Jobbágyi"
+      },
+      {
+         "city": "Kálló"
+      },
+      {
+         "city": "Karancsalja"
+      },
+      {
+         "city": "Karancsberény"
+      },
+      {
+         "city": "Karancskeszi"
+      },
+      {
+         "city": "Karancslapujtő"
+      },
+      {
+         "city": "Karancsság"
+      },
+      {
+         "city": "Kazár"
+      },
+      {
+         "city": "Kazár"
+      },
+      {
+         "city": "Keszeg"
+      },
+      {
+         "city": "Kétbodony"
+      },
+      {
+         "city": "Kisbágyon"
+      },
+      {
+         "city": "Kisbárkány"
+      },
+      {
+         "city": "Kisecset"
+      },
+      {
+         "city": "Kishartyán"
+      },
+      {
+         "city": "Kópháza"
+      },
+      {
+         "city": "Kurd"
+      },
+      {
+         "city": "Legénd"
+      },
+      {
+         "city": "Litke"
+      },
+      {
+         "city": "Lucfalva"
+      },
+      {
+         "city": "Ludányhalászi"
+      },
+      {
+         "city": "Magyargéc"
+      },
+      {
+         "city": "Magyarnándor"
+      },
+      {
+         "city": "Márkháza"
+      },
+      {
+         "city": "Mátramindszent"
+      },
+      {
+         "city": "Mátranovák"
+      },
+      {
+         "city": "Mátranovák"
+      },
+      {
+         "city": "Mátraszele"
+      },
+      {
+         "city": "Mátraszőlős"
+      },
+      {
+         "city": "Mátraterenye"
+      },
+      {
+         "city": "Mátraterenye"
+      },
+      {
+         "city": "Mátraverebély"
+      },
+      {
+         "city": "Mihálygerge"
+      },
+      {
+         "city": "Mohács"
+      },
+      {
+         "city": "Nagybárkány"
+      },
+      {
+         "city": "Nagykeresztúr"
+      },
+      {
+         "city": "Nagylóc"
+      },
+      {
+         "city": "Nagyoroszi"
+      },
+      {
+         "city": "Nemti"
+      },
+      {
+         "city": "Nézsa"
+      },
+      {
+         "city": "Nógrád"
+      },
+      {
+         "city": "Nógrádkövesd"
+      },
+      {
+         "city": "Nógrádmarcal"
+      },
+      {
+         "city": "Nógrádmegyer"
+      },
+      {
+         "city": "Nógrádsáp"
+      },
+      {
+         "city": "Nógrádsipek"
+      },
+      {
+         "city": "Nógrádszakál"
+      },
+      {
+         "city": "Novajidrány"
+      },
+      {
+         "city": "Öttevény"
+      },
+      {
+         "city": "Ózd"
+      },
+      {
+         "city": "Palotás"
+      },
+      {
+         "city": "Pásztó"
+      },
+      {
+         "city": "Pásztó"
+      },
+      {
+         "city": "Pásztó"
+      },
+      {
+         "city": "Patak"
+      },
+      {
+         "city": "Patvarc"
+      },
+      {
+         "city": "Piliny"
+      },
+      {
+         "city": "Püspökhatvan"
+      },
+      {
+         "city": "Rétság"
+      },
+      {
+         "city": "Rimóc"
+      },
+      {
+         "city": "Románd"
+      },
+      {
+         "city": "Ságújfalu"
+      },
+      {
+         "city": "Salgótarján"
+      },
+      {
+         "city": "Salgótarján"
+      },
+      {
+         "city": "Salgótarján"
+      },
+      {
+         "city": "Salgótarján"
+      },
+      {
+         "city": "Salgótarján"
+      },
+      {
+         "city": "Salgótarján"
+      },
+      {
+         "city": "Sámsonháza"
+      },
+      {
+         "city": "Sorkikápolna"
+      },
+      {
+         "city": "Szalmatercs"
+      },
+      {
+         "city": "Szanda"
+      },
+      {
+         "city": "Szarvasgede"
+      },
+      {
+         "city": "Szátok"
+      },
+      {
+         "city": "Szécsénke"
+      },
+      {
+         "city": "Szécsény"
+      },
+      {
+         "city": "Szécsényfelfalu"
+      },
+      {
+         "city": "Szendehely"
+      },
+      {
+         "city": "Szente"
+      },
+      {
+         "city": "Szilaspogony"
+      },
+      {
+         "city": "Szirák"
+      },
+      {
+         "city": "Szűcsi"
+      },
+      {
+         "city": "Szulimán"
+      },
+      {
+         "city": "Szűr"
+      },
+      {
+         "city": "Tar"
+      },
+      {
+         "city": "Terény"
+      },
+      {
+         "city": "Tereske"
+      },
+      {
+         "city": "Tolcsva"
+      },
+      {
+         "city": "Vanyarc"
+      },
+      {
+         "city": "Varsány"
+      },
+      {
+         "city": "Vizslás"
+      },
+      {
+         "city": "Zabar"
+      }
+   ]
+}
